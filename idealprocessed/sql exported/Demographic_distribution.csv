@@ -1,0 +1,1001 @@
+Gender,Total_Customers,Average_Age,City,State,Country,Continent
+Female,361,56.0416,Toronto,Ontario,Canada,"North America"
+Male,343,59.4461,"New York","New York","United States","North America"
+Male,320,54.6438,Toronto,Ontario,Canada,"North America"
+Female,310,51.6581,"Los Angeles",California,"United States","North America"
+Male,269,50.5056,"Los Angeles",California,"United States","North America"
+Male,240,51.5042,Houston,Texas,"United States","North America"
+Female,226,56.5088,"New York","New York","United States","North America"
+Female,211,51.3839,Montreal,Quebec,Canada,"North America"
+Male,199,54.3719,Chicago,Illinois,"United States","North America"
+Female,198,56.8687,Houston,Texas,"United States","North America"
+Male,179,56.0726,Philadelphia,Pennsylvania,"United States","North America"
+Female,178,62.2303,Philadelphia,Pennsylvania,"United States","North America"
+Female,169,59.5799,Chicago,Illinois,"United States","North America"
+Female,151,60.6358,Calgary,Alberta,Canada,"North America"
+Male,151,50.6026,Atlanta,Georgia,"United States","North America"
+Male,150,56.4133,Montreal,Quebec,Canada,"North America"
+Male,149,66.0470,Miami,Florida,"United States","North America"
+Female,142,56.4718,Dallas,Texas,"United States","North America"
+Male,140,52.7357,Dallas,Texas,"United States","North America"
+Female,133,51.8421,Southfield,Michigan,"United States","North America"
+Male,125,55.6800,"San Francisco",California,"United States","North America"
+Female,122,50.4426,"Grand Rapids",Michigan,"United States","North America"
+Male,119,59.1513,Oakland,California,"United States","North America"
+Male,119,63.3193,Seattle,Washington,"United States","North America"
+Male,117,52.9231,Charlotte,"North Carolina","United States","North America"
+Male,116,53.7241,Calgary,Alberta,Canada,"North America"
+Female,116,53.7414,Seattle,Washington,"United States","North America"
+Female,114,51.6053,Vancouver,"British Columbia",Canada,"North America"
+Female,112,59.9911,"San Francisco",California,"United States","North America"
+Male,110,54.8000,Ottawa,Ontario,Canada,"North America"
+Male,109,60.2294,Tampa,Florida,"United States","North America"
+Male,106,57.9245,Southfield,Michigan,"United States","North America"
+Female,105,53.4667,Indianapolis,Indiana,"United States","North America"
+Female,105,59.9429,"San Antonio",Texas,"United States","North America"
+Male,104,55.9808,Sacramento,California,"United States","North America"
+Male,104,57.5481,Memphis,Tennessee,"United States","North America"
+Male,101,50.4554,Portland,Oregon,"United States","North America"
+Male,101,65.4059,"San Diego",California,"United States","North America"
+Male,97,53.7835,Boston,Massachusetts,"United States","North America"
+Female,97,58.8454,Atlanta,Georgia,"United States","North America"
+Female,96,53.3333,Austin,Texas,"United States","North America"
+Male,96,48.1667,Pittsburgh,Pennsylvania,"United States","North America"
+Female,96,55.8750,Orlando,Florida,"United States","North America"
+Female,95,53.3368,Denver,Colorado,"United States","North America"
+Female,93,56.6774,Cleveland,Ohio,"United States","North America"
+Male,93,59.4086,"San Antonio",Texas,"United States","North America"
+Male,91,48.6264,Phoenix,Arizona,"United States","North America"
+Female,88,48.8409,Phoenix,Arizona,"United States","North America"
+Male,88,57.8523,Washington,"Washington DC","United States","North America"
+Female,87,63.4483,Oakland,California,"United States","North America"
+Female,86,42.7093,Jackson,Mississippi,"United States","North America"
+Female,85,52.4235,Memphis,Tennessee,"United States","North America"
+Female,83,57.7952,Detroit,Michigan,"United States","North America"
+Female,83,50.9880,Nashville,Tennessee,"United States","North America"
+Male,82,52.0244,Jackson,Mississippi,"United States","North America"
+Male,81,58.2099,"Grand Rapids",Michigan,"United States","North America"
+Female,81,52.5309,Tulsa,Oklahoma,"United States","North America"
+Female,80,53.9125,Birmingham,Alabama,"United States","North America"
+Male,80,61.3000,Minneapolis,Minnesota,"United States","North America"
+Male,80,52.9875,Indianapolis,Indiana,"United States","North America"
+Male,78,49.3590,Lexington,Kentucky,"United States","North America"
+Female,77,49.0779,Edmonton,Alberta,Canada,"North America"
+Female,76,63.4474,Baltimore,Maryland,"United States","North America"
+Female,76,47.3421,"San Jose",California,"United States","North America"
+Female,75,53.8667,"San Diego",California,"United States","North America"
+Male,75,54.7733,"Saint Louis",Missouri,"United States","North America"
+Female,74,48.8378,Ottawa,Ontario,Canada,"North America"
+Female,74,62.5676,Miami,Florida,"United States","North America"
+Female,70,57.4000,"Corpus Christi",Texas,"United States","North America"
+Male,70,42.5286,Victoria,"British Columbia",Canada,"North America"
+Male,69,55.3043,Milwaukee,Wisconsin,"United States","North America"
+Male,69,64.9130,Fresno,California,"United States","North America"
+Male,69,57.3333,Jacksonville,Florida,"United States","North America"
+Male,69,54.6522,Reno,Nevada,"United States","North America"
+Male,69,72.0435,Birmingham,Alabama,"United States","North America"
+Male,69,52.1449,"Little Rock",Arkansas,"United States","North America"
+Male,68,61.0000,Vancouver,"British Columbia",Canada,"North America"
+Male,68,65.1029,Denver,Colorado,"United States","North America"
+Male,67,66.5224,"Las Vegas",Nevada,"United States","North America"
+Male,67,70.5075,Tucson,Arizona,"United States","North America"
+Female,67,55.8358,Irvine,California,"United States","North America"
+Female,64,54.3281,Anaheim,California,"United States","North America"
+Female,64,47.3750,Dayton,Ohio,"United States","North America"
+Male,64,57.7656,"Oklahoma City",Oklahoma,"United States","North America"
+Male,64,69.0469,Anaheim,California,"United States","North America"
+Female,64,43.7031,"Las Vegas",Nevada,"United States","North America"
+Female,62,54.7581,Tampa,Florida,"United States","North America"
+Male,62,45.1290,Edmonton,Alberta,Canada,"North America"
+Male,62,60.6452,Englewood,Colorado,"United States","North America"
+Male,62,39.0806,Buffalo,"New York","United States","North America"
+Female,61,52.3607,Sacramento,California,"United States","North America"
+Female,61,60.2295,Richmond,Virginia,"United States","North America"
+Female,61,56.4754,Minneapolis,Minnesota,"United States","North America"
+Female,61,58.5902,"Little Rock",Arkansas,"United States","North America"
+Male,60,55.9667,Louisville,Kentucky,"United States","North America"
+Female,60,53.4667,Louisville,Kentucky,"United States","North America"
+Male,60,51.3833,Baltimore,Maryland,"United States","North America"
+Female,60,42.7000,MÃ¼nchen,"Freistaat Bayern",Germany,Europe
+Male,58,69.9655,Madison,Wisconsin,"United States","North America"
+Female,58,45.0345,Albuquerque,"New Mexico","United States","North America"
+Female,57,52.0351,"Saint Louis",Missouri,"United States","North America"
+Female,57,64.8246,Pittsburgh,Pennsylvania,"United States","North America"
+Male,57,73.2982,Camden,"New Jersey","United States","North America"
+Female,57,57.9649,Quebec,Quebec,Canada,"North America"
+Male,57,61.4737,Columbus,Ohio,"United States","North America"
+Male,56,59.1964,Quebec,Quebec,Canada,"North America"
+Male,55,57.3091,Greenville,"South Carolina","United States","North America"
+Male,55,49.8364,Nashville,Tennessee,"United States","North America"
+Male,55,46.0000,Stockton,California,"United States","North America"
+Female,54,69.7222,Hartford,Connecticut,"United States","North America"
+Female,54,54.7222,Worcester,Massachusetts,"United States","North America"
+Female,54,49.7222,Boston,Massachusetts,"United States","North America"
+Male,53,57.7170,Akron,Ohio,"United States","North America"
+Female,53,56.2830,"Salt Lake City",Utah,"United States","North America"
+Male,53,54.5094,Omaha,Nebraska,"United States","North America"
+Female,53,66.5094,Newark,"New Jersey","United States","North America"
+Male,53,42.5472,Washington,Maryland,"United States","North America"
+Female,53,57.5660,"New Brunswick","New Jersey","United States","North America"
+Male,52,60.2692,Detroit,Michigan,"United States","North America"
+Male,52,48.9808,Toledo,Ohio,"United States","North America"
+Male,52,45.2115,Irvine,California,"United States","North America"
+Female,52,49.5000,Raleigh,"North Carolina","United States","North America"
+Female,52,58.8269,Cambridge,Massachusetts,"United States","North America"
+Male,51,57.6863,"West Palm Beach",Florida,"United States","North America"
+Male,51,45.2353,Burbank,California,"United States","North America"
+Male,51,53.3922,"Kansas City",Missouri,"United States","North America"
+Male,51,54.6275,Elmsford,"New York","United States","North America"
+Female,51,59.8824,Camden,"New Jersey","United States","North America"
+Female,50,74.5400,"Fort Myers",Florida,"United States","North America"
+Female,50,52.3000,Jacksonville,Florida,"United States","North America"
+Male,50,54.7600,Amsterdam,Noord-Holland,Netherlands,Europe
+Female,50,48.0400,Springfield,Massachusetts,"United States","North America"
+Male,49,68.5306,Hattiesburg,Mississippi,"United States","North America"
+Male,49,59.5102,Concord,California,"United States","North America"
+Male,48,53.6250,"San Jose",California,"United States","North America"
+Male,48,60.6042,"Boca Raton",Florida,"United States","North America"
+Male,48,61.0625,Peoria,Illinois,"United States","North America"
+Female,48,56.5208,Salinas,California,"United States","North America"
+Female,48,64.0833,"Fort Lauderdale",Florida,"United States","North America"
+Female,47,66.7872,"Garden City","New York","United States","North America"
+Female,47,54.6383,Milwaukee,Wisconsin,"United States","North America"
+Male,47,47.0426,Montgomery,Alabama,"United States","North America"
+Male,47,69.2553,Washington,Virginia,"United States","North America"
+Male,47,56.6809,Saginaw,Michigan,"United States","North America"
+Female,47,64.4681,Woburn,Massachusetts,"United States","North America"
+Female,46,54.5435,Wichita,Kansas,"United States","North America"
+Male,46,51.5435,Richmond,Virginia,"United States","North America"
+Male,46,49.8043,"New Orleans",Louisiana,"United States","North America"
+Female,46,64.3913,Charlotte,"North Carolina","United States","North America"
+Male,45,58.6000,Raleigh,"North Carolina","United States","North America"
+Female,45,59.8667,Victoria,"British Columbia",Canada,"North America"
+Female,45,64.2667,Saginaw,Michigan,"United States","North America"
+Female,45,57.1778,NÃ¼rnberg,"Freistaat Bayern",Germany,Europe
+Female,44,53.0909,Lexington,Kentucky,"United States","North America"
+Female,44,42.7500,"Kansas City",Missouri,"United States","North America"
+Female,43,29.0465,Winnipeg,Manitoba,Canada,"North America"
+Male,43,56.4186,Albany,"New York","United States","North America"
+Male,43,77.5349,Eugene,Oregon,"United States","North America"
+Female,42,56.3333,Columbus,Ohio,"United States","North America"
+Female,42,49.4762,Brooklyn,"New York","United States","North America"
+Male,42,42.5714,Albuquerque,"New Mexico","United States","North America"
+Male,42,62.4286,Cambridge,Massachusetts,"United States","North America"
+Female,42,56.5000,Portland,Oregon,"United States","North America"
+Female,42,67.5000,"Oklahoma City",Oklahoma,"United States","North America"
+Female,42,52.1429,Rupert,Idaho,"United States","North America"
+Female,41,72.4878,"Rochelle Park","New Jersey","United States","North America"
+Male,41,54.0000,Waukesha,Wisconsin,"United States","North America"
+Female,41,71.6585,Worthington,Ohio,"United States","North America"
+Male,41,71.3659,Youngstown,Ohio,"United States","North America"
+Female,41,64.4634,Fresno,California,"United States","North America"
+Female,40,44.8500,"Baton Rouge",Louisiana,"United States","North America"
+Male,40,58.5500,Hamilton,Ontario,Canada,"North America"
+Male,40,44.0250,Ocala,Florida,"United States","North America"
+Male,39,56.3590,Tallahassee,Florida,"United States","North America"
+Female,39,57.5641,Columbia,"South Carolina","United States","North America"
+Male,39,59.1282,"El Paso",Texas,"United States","North America"
+Female,39,42.6154,"East Lansing",Michigan,"United States","North America"
+Male,38,44.4211,Greensboro,"North Carolina","United States","North America"
+Male,38,78.2368,"Winston Salem","North Carolina","United States","North America"
+Female,38,76.8684,"New Haven",Connecticut,"United States","North America"
+Female,38,41.1842,Norwalk,Connecticut,"United States","North America"
+Female,38,40.1053,Regina,Saskatchewan,Canada,"North America"
+Male,37,68.8378,Everett,Washington,"United States","North America"
+Male,37,64.9459,MÃ¼nchen,"Freistaat Bayern",Germany,Europe
+Female,37,67.2162,Syracuse,"New York","United States","North America"
+Male,37,70.4595,Dayton,Ohio,"United States","North America"
+Male,37,56.3784,"Salt Lake City",Utah,"United States","North America"
+Female,37,59.4595,"Cedar Rapids",Iowa,"United States","North America"
+Female,37,64.4324,Stockton,California,"United States","North America"
+Male,36,48.5833,Boise,Idaho,"United States","North America"
+Male,36,56.6944,"Rochelle Park","New Jersey","United States","North America"
+Male,36,33.0000,"Galdo Degli Alburni",Salerno,Italy,Europe
+Male,36,51.6111,Newark,"New Jersey","United States","North America"
+Female,36,50.8333,Akron,Ohio,"United States","North America"
+Male,36,51.5833,Kitchener,Ontario,Canada,"North America"
+Female,35,64.3714,Norcross,Georgia,"United States","North America"
+Male,35,44.0571,Burlington,Ontario,Canada,"North America"
+Female,35,43.1429,Burbank,California,"United States","North America"
+Male,35,66.3143,Savannah,Georgia,"United States","North America"
+Male,35,41.9714,Knoxville,Tennessee,"United States","North America"
+Female,35,47.0857,"El Paso",Texas,"United States","North America"
+Female,35,61.8286,Montgomery,Alabama,"United States","North America"
+Female,35,65.7143,"Fort Smith",Arkansas,"United States","North America"
+Male,34,63.9412,Austin,Texas,"United States","North America"
+Male,34,40.2059,"Des Moines",Iowa,"United States","North America"
+Male,34,70.7353,Spokane,Washington,"United States","North America"
+Male,34,59.8235,London,Ontario,Canada,"North America"
+Male,34,63.0294,Fayetteville,"North Carolina","United States","North America"
+Male,34,39.0294,"East Lansing",Michigan,"United States","North America"
+Female,34,44.7941,Savannah,Georgia,"United States","North America"
+Female,34,58.2059,"Trois Rivieres",Quebec,Canada,"North America"
+Female,34,52.7647,Shreveport,Louisiana,"United States","North America"
+Female,33,64.6364,Norderstedt,Schleswig-Holstein,Germany,Europe
+Female,33,59.8182,Cincinnati,Ohio,"United States","North America"
+Male,33,67.9091,Norfolk,Virginia,"United States","North America"
+Male,33,60.9091,"Fort Lauderdale",Florida,"United States","North America"
+Female,32,36.7500,Madison,Wisconsin,"United States","North America"
+Male,32,64.1563,Bloomfield,Connecticut,"United States","North America"
+Female,32,50.9375,Evansville,Indiana,"United States","North America"
+Male,32,57.0313,Chattanooga,Tennessee,"United States","North America"
+Female,32,63.0625,"Bloomfield Township",Michigan,"United States","North America"
+Female,32,58.6250,Amsterdam,Noord-Holland,Netherlands,Europe
+Male,32,67.1250,Poughkeepsie,"New York","United States","North America"
+Female,31,64.5161,"Mira Loma",California,"United States","North America"
+Female,31,53.9677,Florence,"South Carolina","United States","North America"
+Female,31,60.4194,Beaverton,Oregon,"United States","North America"
+Male,31,64.1935,Wichita,Kansas,"United States","North America"
+Female,31,62.0000,Bloomington,Indiana,"United States","North America"
+Female,31,55.0645,Utrecht,Utrecht,Netherlands,Europe
+Female,31,26.8065,Livonia,Michigan,"United States","North America"
+Male,30,65.0667,Saskatoon,Saskatchewan,Canada,"North America"
+Male,30,62.2667,Brooklyn,"New York","United States","North America"
+Male,30,56.4667,Gainesville,Florida,"United States","North America"
+Male,30,78.0000,Portage,Indiana,"United States","North America"
+Female,30,50.4000,Wooster,Ohio,"United States","North America"
+Female,30,57.5333,Gainesville,Florida,"United States","North America"
+Female,30,40.4333,"West Palm Beach",Florida,"United States","North America"
+Male,30,57.7667,Portland,Pennsylvania,"United States","North America"
+Male,30,51.0333,"Jersey City","New Jersey","United States","North America"
+Male,29,64.6552,Waco,Texas,"United States","North America"
+Female,29,66.2069,Harlingen,Texas,"United States","North America"
+Male,29,65.3448,"Den Haag",Zuid-Holland,Netherlands,Europe
+Male,29,62.1034,Manchester,"New Hampshire","United States","North America"
+Male,29,40.8966,Crafton,Pennsylvania,"United States","North America"
+Female,29,30.0000,Otho,Iowa,"United States","North America"
+Male,29,48.5172,"Fort Worth",Texas,"United States","North America"
+Male,29,62.4138,"Grand Island",Nebraska,"United States","North America"
+Male,29,63.1379,Albany,Georgia,"United States","North America"
+Male,29,64.4828,"Bloomfield Township",Michigan,"United States","North America"
+Male,29,55.7586,Orlando,Florida,"United States","North America"
+Female,29,44.0000,Hosmer,"South Dakota","United States","North America"
+Male,29,67.7931,Providence,"Rhode Island","United States","North America"
+Female,28,63.2143,"Fort Worth",Texas,"United States","North America"
+Female,28,72.5000,Saskatoon,Saskatchewan,Canada,"North America"
+Female,28,46.3214,Manchester,"New Hampshire","United States","North America"
+Female,28,57.8929,Westland,Michigan,"United States","North America"
+Female,28,63.5357,Columbus,Georgia,"United States","North America"
+Male,28,60.7500,"Sugar Land",Texas,"United States","North America"
+Male,28,59.0000,"Pieve Di Zignago","La Spezia",Italy,Europe
+Male,28,53.0000,Woburn,Massachusetts,"United States","North America"
+Male,28,67.3571,"Saint Cloud",Minnesota,"United States","North America"
+Male,28,73.2143,Windsor,Ontario,Canada,"North America"
+Male,27,43.4444,Frisco,Texas,"United States","North America"
+Male,27,61.5556,Zoetermeer,Zuid-Holland,Netherlands,Europe
+Male,27,59.1111,Harrisburg,Pennsylvania,"United States","North America"
+Female,27,45.0000,Morano,Perugia,Italy,Europe
+Female,27,46.1852,Oshawa,Ontario,Canada,"North America"
+Female,27,58.6296,Halberstadt,Sachsen-Anhalt,Germany,Europe
+Female,27,36.2593,Gardena,California,"United States","North America"
+Male,27,64.0000,NANTMEL,"Llandrindod Wells","United Kingdom",Europe
+Female,27,40.2222,Arlington,Texas,"United States","North America"
+Male,27,45.2593,Honolulu,Hawaii,"United States","North America"
+Female,27,51.2963,Cottbus,Brandenburg,Germany,Europe
+Female,27,38.8148,Chicoutimi,Quebec,Canada,"North America"
+Male,27,59.7778,Paris,Ãle-de-France,France,Europe
+Male,27,26.1852,Elkhart,Indiana,"United States","North America"
+Male,26,35.0769,Stlouis,Missouri,"United States","North America"
+Female,26,50.6154,Sedona,Arizona,"United States","North America"
+Male,26,59.7692,Dresden,"Freistaat Sachsen",Germany,Europe
+Female,26,45.8846,"Hickory Hills",Illinois,"United States","North America"
+Female,26,63.1923,Eindhoven,Noord-Brabant,Netherlands,Europe
+Male,26,66.8462,Piscataway,"New Jersey","United States","North America"
+Female,26,69.3462,Kelowna,"British Columbia",Canada,"North America"
+Female,26,64.3077,Kenner,Louisiana,"United States","North America"
+Female,26,58.7692,Anchorage,Alaska,"United States","North America"
+Female,26,85.0000,Wahiawa,Hawaii,"United States","North America"
+Male,26,38.4615,"Toms River","New Jersey","United States","North America"
+Male,26,66.9231,Metairie,Louisiana,"United States","North America"
+Female,26,55.2692,Lansing,Michigan,"United States","North America"
+Male,26,55.0000,"Garden City","New York","United States","North America"
+Male,26,85.9231,"Red Bank","New Jersey","United States","North America"
+Female,26,52.7308,Washington,"Washington DC","United States","North America"
+Male,26,61.7308,Champaign,Illinois,"United States","North America"
+Female,26,42.3846,Marquette,Michigan,"United States","North America"
+Female,26,48.8462,Springdale,Arkansas,"United States","North America"
+Female,26,43.4615,"Rock Hill","South Carolina","United States","North America"
+Male,25,66.5200,Utrecht,Utrecht,Netherlands,Europe
+Female,25,43.0000,Overton,Nevada,"United States","North America"
+Female,25,33.0000,BYFIELD,Daventry,"United Kingdom",Europe
+Female,25,64.1200,Dalton,Georgia,"United States","North America"
+Male,25,45.6800,"Fort Myers",Florida,"United States","North America"
+Female,25,46.0000,"St Catharines",Ontario,Canada,"North America"
+Female,25,59.3200,"Santa Clara",California,"United States","North America"
+Female,25,48.2800,Wayne,"New Jersey","United States","North America"
+Female,25,45.9200,Lubbock,Texas,"United States","North America"
+Male,25,43.3200,Westland,Michigan,"United States","North America"
+Male,25,56.0000,COOKSHILL,Staffordshire,"United Kingdom",Europe
+Female,25,64.5600,"Golden Valley",Minnesota,"United States","North America"
+Male,25,60.4400,Syracuse,"New York","United States","North America"
+Female,25,46.1200,Bloomsburg,Pennsylvania,"United States","North America"
+Female,25,42.2000,Dublin,California,"United States","North America"
+Male,25,54.2000,Sunnyvale,California,"United States","North America"
+Female,25,81.4000,"North Vancouver","British Columbia",Canada,"North America"
+Female,25,44.6000,"Mountain View",Wyoming,"United States","North America"
+Female,25,56.7200,Omaha,Nebraska,"United States","North America"
+Female,25,42.2400,Westerville,Ohio,"United States","North America"
+Male,25,30.8000,Scottsdale,Arizona,"United States","North America"
+Male,25,39.7200,"Baton Rouge",Louisiana,"United States","North America"
+Female,25,78.9600,Griesbach,"Freistaat Bayern",Germany,Europe
+Male,24,67.2500,Shreveport,Louisiana,"United States","North America"
+Female,24,53.0000,EDITHMEAD,Somerset,"United Kingdom",Europe
+Female,24,50.6667,Brentwood,Tennessee,"United States","North America"
+Male,24,46.0000,FULLETBY,Lincoln,"United Kingdom",Europe
+Male,24,70.0000,Sturtevant,Wisconsin,"United States","North America"
+Female,24,58.7917,Lincoln,Nebraska,"United States","North America"
+Female,24,57.4583,Rotterdam,Zuid-Holland,Netherlands,Europe
+Male,24,58.8750,"Mountain View",Colorado,"United States","North America"
+Female,24,45.0000,Loveland,Colorado,"United States","North America"
+Female,24,59.0833,Lafayette,Louisiana,"United States","North America"
+Male,24,26.0000,LARG,Wigtownshire,"United Kingdom",Europe
+Male,24,29.0000,"Lake Geneva",Wisconsin,"United States","North America"
+Female,24,45.5000,Zwolle,Overijssel,Netherlands,Europe
+Male,24,88.0000,"Cairo (Allen)",Ohio,"United States","North America"
+Male,24,66.2500,"Golden Valley",Minnesota,"United States","North America"
+Female,24,64.4583,Peoria,Illinois,"United States","North America"
+Female,24,39.0417,Midland,Texas,"United States","North America"
+Male,24,47.0833,Westerville,Ohio,"United States","North America"
+Female,24,43.3333,Wheeling,"West Virginia","United States","North America"
+Male,24,63.0000,Bismark,Sachsen-Anhalt,Germany,Europe
+Female,24,44.2917,"Den Haag",Zuid-Holland,Netherlands,Europe
+Male,24,43.7500,Ontario,California,"United States","North America"
+Female,24,35.7500,"El Toro",California,"United States","North America"
+Female,23,40.3913,Boulder,Colorado,"United States","North America"
+Female,23,47.0000,Conyers,Georgia,"United States","North America"
+Male,23,41.8261,Whitestone,"New York","United States","North America"
+Male,23,79.0000,Bridgeport,Connecticut,"United States","North America"
+Female,23,56.2174,Tallahassee,Florida,"United States","North America"
+Male,23,55.1739,Duluth,Minnesota,"United States","North America"
+Female,23,55.4348,Bakersfield,California,"United States","North America"
+Male,23,76.5652,Springfield,Missouri,"United States","North America"
+Female,23,33.0000,Charleston,"West Virginia","United States","North America"
+Male,23,69.3478,Laredo,Texas,"United States","North America"
+Female,23,72.4783,List,Schleswig-Holstein,Germany,Europe
+Female,23,66.6087,Leipzig,"Freistaat Sachsen",Germany,Europe
+Female,23,25.0000,SHAMBELLIE,Dumfriesshire,"United Kingdom",Europe
+Female,23,62.3478,Rochester,"New York","United States","North America"
+Female,23,47.5652,Apeldoorn,Gelderland,Netherlands,Europe
+Female,23,70.6087,Augsburg,"Freistaat Bayern",Germany,Europe
+Female,23,40.7826,Rijswijk,Zuid-Holland,Netherlands,Europe
+Male,23,60.3913,Portland,Maine,"United States","North America"
+Female,23,67.6087,"Silver Spring",Maryland,"United States","North America"
+Male,23,34.8261,Mobile,Alabama,"United States","North America"
+Male,23,73.8696,"West Roxbury",Massachusetts,"United States","North America"
+Female,23,46.7826,Greenville,"South Carolina","United States","North America"
+Male,23,47.6087,Bakersfield,California,"United States","North America"
+Female,22,60.9545,"Red Deer",Alberta,Canada,"North America"
+Male,22,61.0000,RÃ¼dersdorf,Brandenburg,Germany,Europe
+Female,22,76.0000,Dorchester,Texas,"United States","North America"
+Female,22,46.0909,Eagleville,Pennsylvania,"United States","North America"
+Female,22,55.2727,Bridgeview,Illinois,"United States","North America"
+Female,22,52.8182,"Del Rio",Texas,"United States","North America"
+Male,22,65.0000,DOWNHEAD,Cornwall,"United Kingdom",Europe
+Female,22,58.0000,"Spokane Valley",Washington,"United States","North America"
+Male,22,51.3636,Breda,Noord-Brabant,Netherlands,Europe
+Male,22,44.0000,Northbrook,Illinois,"United States","North America"
+Female,22,60.0000,"Ocean Drive Beach","South Carolina","United States","North America"
+Male,22,67.0000,"LANGTON LONG BLANDFORD","North Dorset","United Kingdom",Europe
+Female,22,44.8636,Reno,Nevada,"United States","North America"
+Male,22,61.4091,Worcester,Massachusetts,"United States","North America"
+Female,22,58.5000,Irving,Texas,"United States","North America"
+Female,22,52.2727,Paris,Ãle-de-France,France,Europe
+Female,22,59.9091,Norfolk,Virginia,"United States","North America"
+Male,22,51.5909,Streetsville,Ontario,Canada,"North America"
+Female,22,66.7727,"South Burlington",Vermont,"United States","North America"
+Male,22,59.0909,Bridgeview,Illinois,"United States","North America"
+Male,22,43.0909,Altoona,Pennsylvania,"United States","North America"
+Female,22,62.3636,Albany,"New York","United States","North America"
+Female,22,39.0000,"Wisconsin Dells",Wisconsin,"United States","North America"
+Male,22,49.1364,"Palo Alto",California,"United States","North America"
+Female,22,55.0455,Huntsville,Alabama,"United States","North America"
+Male,22,44.4545,Huntsville,Alabama,"United States","North America"
+Female,21,33.3333,Queens,"New York","United States","North America"
+Female,21,46.0000,Brewster,Kansas,"United States","North America"
+Female,21,80.2857,Portsmouth,"New Hampshire","United States","North America"
+Female,21,64.4762,AIX-EN-PROVENCE,"Provence-Alpes-CÃ´te d'Azur",France,Europe
+Male,21,51.6667,Harlingen,Texas,"United States","North America"
+Male,21,77.4286,Nomborn,Rheinland-Pfalz,Germany,Europe
+Female,21,68.9524,Huntsville,Ontario,Canada,"North America"
+Male,21,39.9524,Arlington,Virginia,"United States","North America"
+Female,21,27.5714,GUÃRET,Limousin,France,Europe
+Female,21,48.7143,"Coos Bay",Oregon,"United States","North America"
+Male,21,44.4286,Chemnitz,"Freistaat Sachsen",Germany,Europe
+Female,21,62.6667,Owensboro,Kentucky,"United States","North America"
+Female,21,40.1429,"Warrensville Heights",Ohio,"United States","North America"
+Female,21,41.0000,"ST MINVER",Cornwall,"United Kingdom",Europe
+Male,21,48.5714,"Arlington Heights",Illinois,"United States","North America"
+Male,21,47.2381,Bridgeville,Pennsylvania,"United States","North America"
+Male,21,52.2857,"Maple Shade","New Jersey","United States","North America"
+Female,21,28.5238,"Redwood City",California,"United States","North America"
+Male,21,58.3333,Norcross,Georgia,"United States","North America"
+Male,21,33.0000,Molt,Montana,"United States","North America"
+Male,21,48.9524,Dothan,Alabama,"United States","North America"
+Female,21,25.5714,"Arlington Heights",Illinois,"United States","North America"
+Female,21,81.0000,Anniston,Alabama,"United States","North America"
+Male,21,57.0000,Hornell,"New York","United States","North America"
+Male,21,82.3333,Plattsburgh,"New York","United States","North America"
+Female,21,26.8095,"Saint Louis",Illinois,"United States","North America"
+Female,21,35.0000,"ALDERLEY EDGE","Cheshire East","United Kingdom",Europe
+Female,21,53.3333,"Miami Springs",Florida,"United States","North America"
+Male,21,88.0000,Sharon,Kansas,"United States","North America"
+Male,21,79.7143,"South Bend",Indiana,"United States","North America"
+Male,21,59.1429,Hackensack,"New Jersey","United States","North America"
+Female,21,57.3810,"New Westminster","British Columbia",Canada,"North America"
+Female,21,31.0000,MELVERLEY,Powys,"United Kingdom",Europe
+Female,21,68.0000,Chalmette,Louisiana,"United States","North America"
+Male,20,79.0000,LLANDDOGED,Conwy,"United Kingdom",Europe
+Female,20,82.5500,Stayner,Ontario,Canada,"North America"
+Male,20,31.6000,Regina,Saskatchewan,Canada,"North America"
+Female,20,23.0000,Gironico,Como,Italy,Europe
+Male,20,46.0500,Arlington,Texas,"United States","North America"
+Female,20,48.1500,Knoxville,Tennessee,"United States","North America"
+Male,20,62.9500,Columbia,"South Carolina","United States","North America"
+Female,20,38.8000,Wheeling,Illinois,"United States","North America"
+Female,20,60.0000,KILVERSTONE,Breckland,"United Kingdom",Europe
+Female,20,67.0000,Farmingdale,"New York","United States","North America"
+Male,20,70.0000,Aschaffenburg,"Freistaat Bayern",Germany,Europe
+Male,20,74.6000,"Falls Church",Virginia,"United States","North America"
+Male,20,56.3000,Cleveland,Ohio,"United States","North America"
+Male,20,46.5000,CERGY,Ãle-de-France,France,Europe
+Male,20,51.0000,Schermbeck,Nordrhein-Westfalen,Germany,Europe
+Female,20,40.0000,"Green Bay",Wisconsin,"United States","North America"
+Male,20,38.2000,Pensacola,Florida,"United States","North America"
+Female,20,33.0000,"Spider Lake",Wisconsin,"United States","North America"
+Male,20,77.9000,Castricum,Noord-Holland,Netherlands,Europe
+Female,20,73.2000,Xenia,Ohio,"United States","North America"
+Male,20,63.9000,Surrey,"British Columbia",Canada,"North America"
+Female,20,40.4000,Newmarket,Ontario,Canada,"North America"
+Female,20,48.3000,Bronx,"New York","United States","North America"
+Male,20,76.4000,Biloxi,Mississippi,"United States","North America"
+Female,20,42.0000,Fimiani,Salerno,Italy,Europe
+Female,20,40.9000,Angola,Indiana,"United States","North America"
+Male,20,55.4000,Needham,Massachusetts,"United States","North America"
+Female,20,63.0000,Owatonna,Minnesota,"United States","North America"
+Male,20,75.9000,"New Westminster","British Columbia",Canada,"North America"
+Male,20,54.2500,Lincoln,Nebraska,"United States","North America"
+Female,20,27.0000,Waldenburg,"Freistaat Sachsen",Germany,Europe
+Female,20,45.2500,"West Nyack","New York","United States","North America"
+Male,20,80.3000,Greenville,"North Carolina","United States","North America"
+Male,20,57.8500,Apeldoorn,Gelderland,Netherlands,Europe
+Male,20,65.0000,Alfhausen,Niedersachsen,Germany,Europe
+Male,20,59.7000,Cochrane,Alberta,Canada,"North America"
+Male,20,77.0000,"East Orange","New Jersey","United States","North America"
+Female,20,72.1500,Eugene,Oregon,"United States","North America"
+Male,20,69.7000,Groningen,Groningen,Netherlands,Europe
+Male,20,63.0000,Charleston,Illinois,"United States","North America"
+Female,20,52.4500,Longview,Texas,"United States","North America"
+Male,19,55.0000,"LITTLE TORBOLL",Highland,"United Kingdom",Europe
+Male,19,57.6316,Arnhem,Gelderland,Netherlands,Europe
+Male,19,70.8421,"Fort Mcmurray",Alberta,Canada,"North America"
+Male,19,67.0000,Sologno,"Reggio Emilia",Italy,Europe
+Female,19,70.0000,"West Allis",Wisconsin,"United States","North America"
+Male,19,73.1053,Quincy,Massachusetts,"United States","North America"
+Male,19,55.1579,"Hickory Hills",Illinois,"United States","North America"
+Male,19,38.0526,Beaumont,Texas,"United States","North America"
+Male,19,79.5263,"Buffalo Grove",Illinois,"United States","North America"
+Male,19,64.9474,Laurel,Maryland,"United States","North America"
+Female,19,68.0526,Beltsville,Virginia,"United States","North America"
+Female,19,84.0000,LONGHAM,Norfolk,"United Kingdom",Europe
+Male,19,42.2632,Plymouth,Indiana,"United States","North America"
+Male,19,63.0000,Nicholasville,Kentucky,"United States","North America"
+Male,19,55.0000,Enid,Oklahoma,"United States","North America"
+Male,19,52.7368,"East Hartford",Connecticut,"United States","North America"
+Male,19,53.0000,Portsmouth,Maine,"United States","North America"
+Male,19,28.9474,"Sioux City",Iowa,"United States","North America"
+Female,19,61.5263,Belleville,Ontario,Canada,"North America"
+Male,19,57.2105,Chickasha,Oklahoma,"United States","North America"
+Male,19,68.2105,Oshawa,Ontario,Canada,"North America"
+Male,19,32.0000,"Berlin Prenzlauer Berg",Berlin,Germany,Europe
+Male,19,50.0000,Hanover,Maryland,"United States","North America"
+Female,19,60.0000,Benndale,Mississippi,"United States","North America"
+Male,19,47.3684,Plano,Texas,"United States","North America"
+Male,19,54.8421,GUYANCOURT,Ãle-de-France,France,Europe
+Male,19,33.0000,Danville,Illinois,"United States","North America"
+Male,19,60.6316,Hays,Kansas,"United States","North America"
+Male,19,82.0000,"North Dade",Florida,"United States","North America"
+Female,19,46.7895,Oakville,Ontario,Canada,"North America"
+Female,19,58.6842,Hollywood,Florida,"United States","North America"
+Female,19,62.7368,Pensacola,Florida,"United States","North America"
+Male,19,44.5789,Wiesbaden,Hessen,Germany,Europe
+Female,19,33.0000,Bollendorf,Rheinland-Pfalz,Germany,Europe
+Female,19,45.0000,Kiel,Schleswig-Holstein,Germany,Europe
+Female,19,59.8421,Pontiac,Michigan,"United States","North America"
+Female,19,43.4211,"Garfield Heights",Ohio,"United States","North America"
+Male,19,60.8947,"Warrensville Heights",Ohio,"United States","North America"
+Male,19,67.0000,"El Monte",California,"United States","North America"
+Female,19,69.7895,Elizabethtown,Kentucky,"United States","North America"
+Male,19,45.5263,Manhattan,"New York","United States","North America"
+Female,19,42.1053,WÃ¼rzburg,"Freistaat Bayern",Germany,Europe
+Female,19,48.1053,Richmond,"British Columbia",Canada,"North America"
+Male,19,67.9474,"Deerfield Beach",Florida,"United States","North America"
+Female,19,78.2105,Aberdeen,Washington,"United States","North America"
+Female,18,35.6667,Aurora,Colorado,"United States","North America"
+Male,18,66.6667,Guelph,Ontario,Canada,"North America"
+Male,18,57.0000,Wayne,"New Jersey","United States","North America"
+Female,18,37.1667,Kensington,"Prince Edward Island",Canada,"North America"
+Male,18,80.5000,"Rancho Cordova",California,"United States","North America"
+Female,18,30.0000,"MILL OF FORTUNE","Perth and Kinross","United Kingdom",Europe
+Male,18,46.7778,Zwolle,Overijssel,Netherlands,Europe
+Male,18,53.4444,Bedford,Massachusetts,"United States","North America"
+Female,18,52.6667,Crafton,Pennsylvania,"United States","North America"
+Male,18,54.3333,"North Bay",Ontario,Canada,"North America"
+Male,18,35.1111,Springfield,Massachusetts,"United States","North America"
+Male,18,28.0000,"PLUMPTON HEAD",Eden,"United Kingdom",Europe
+Male,18,74.0000,Vancouver,Washington,"United States","North America"
+Female,18,44.0000,HELHOUGHTON,Norfolk,"United Kingdom",Europe
+Male,18,52.0000,"Bremen SchÃ¶nebeck","Freie Hansestadt Bremen",Germany,Europe
+Female,18,61.8333,Pomona,California,"United States","North America"
+Male,18,60.3889,"West Nyack","New York","United States","North America"
+Female,18,24.0000,Passalacqua,Alessandria,Italy,Europe
+Female,18,56.0000,NEWBIGGING,"Perth and Kinross","United Kingdom",Europe
+Female,18,88.0000,"St Marys",Illinois,"United States","North America"
+Female,18,24.0000,"LOOSLEY ROW",Wycombe,"United Kingdom",Europe
+Female,18,65.8889,Framingham,Massachusetts,"United States","North America"
+Male,18,66.0000,GRINDLE,Shropshire,"United Kingdom",Europe
+Male,18,25.0000,"Monroe City",Indiana,"United States","North America"
+Male,18,76.0000,THOMSHILL,Moray,"United Kingdom",Europe
+Female,18,47.0000,Vista,California,"United States","North America"
+Male,18,42.1111,Brantford,Ontario,Canada,"North America"
+Male,18,27.0000,"Burlington Junction",Missouri,"United States","North America"
+Female,18,51.0000,"Armonk Village","New York","United States","North America"
+Male,18,71.0000,Bernburg,Sachsen-Anhalt,Germany,Europe
+Male,18,34.7778,Maryville,Tennessee,"United States","North America"
+Male,18,48.5556,Riverside,California,"United States","North America"
+Female,18,33.0000,ODDINGTON,Cherwell,"United Kingdom",Europe
+Female,18,36.0000,Elkton,Maryland,"United States","North America"
+Female,18,32.0556,Bensenville,Illinois,"United States","North America"
+Female,18,63.5556,Marietta,Georgia,"United States","North America"
+Female,18,71.0000,"BARNWELL ST ANDREW","East Northamptonshire","United Kingdom",Europe
+Female,18,76.0000,Prasco,Alessandria,Italy,Europe
+Male,18,38.0000,"Mayfield Heights",Ohio,"United States","North America"
+Female,18,78.0000,Belleville,Illinois,"United States","North America"
+Male,18,46.3333,THORNSETT,"Cheshire East","United Kingdom",Europe
+Male,18,44.8889,"Fond Du Lac",Saskatchewan,Canada,"North America"
+Female,18,73.0000,"HAMPTON LUCY",Warwick,"United Kingdom",Europe
+Male,18,72.0000,Medway,Ohio,"United States","North America"
+Female,18,52.6667,Burnaby,"British Columbia",Canada,"North America"
+Male,18,63.6667,Binghamton,"New York","United States","North America"
+Male,18,57.7222,Rochester,"New York","United States","North America"
+Female,18,64.6667,Duluth,Georgia,"United States","North America"
+Female,18,62.0000,Lyerly,Georgia,"United States","North America"
+Female,18,47.8333,Tigard,Oregon,"United States","North America"
+Female,18,57.0000,Orgosolo,Nuoro,Italy,Europe
+Male,18,61.0000,Pescara,Pescara,Italy,Europe
+Female,18,62.2778,Arlington,Virginia,"United States","North America"
+Female,18,64.6111,Hampton,"South Carolina","United States","North America"
+Female,18,48.3889,"East Syracuse","New York","United States","North America"
+Male,18,41.0000,Eagleville,Pennsylvania,"United States","North America"
+Male,17,73.0000,Westminster,Maryland,"United States","North America"
+Male,17,45.8824,Bend,Oregon,"United States","North America"
+Male,17,59.7059,Salinas,California,"United States","North America"
+Female,17,57.8235,EisenhÃ¼ttenstadt,Brandenburg,Germany,Europe
+Male,17,45.9412,Roanoke,Virginia,"United States","North America"
+Male,17,66.3529,Darmstadt,Hessen,Germany,Europe
+Female,17,83.0000,Ventura,California,"United States","North America"
+Male,17,68.1765,Bensenville,Illinois,"United States","North America"
+Female,17,66.3529,Bryan,Texas,"United States","North America"
+Female,17,69.0000,SELATTYN,Shropshire,"United Kingdom",Europe
+Male,17,88.0000,"Castello Inici",Trapani,Italy,Europe
+Male,17,32.0000,Jonesville,Louisiana,"United States","North America"
+Female,17,77.1765,Elmsford,"New York","United States","North America"
+Male,17,57.6471,MONTPELLIER,Languedoc-Roussillon,France,Europe
+Female,17,82.0000,Conway,"South Carolina","United States","North America"
+Female,17,43.0000,"Lock Haven",Pennsylvania,"United States","North America"
+Male,17,32.4706,Rolla,Missouri,"United States","North America"
+Female,17,66.5294,Eagan,Minnesota,"United States","North America"
+Male,17,55.5882,Harvester,Missouri,"United States","North America"
+Male,17,88.0000,Juda,Wisconsin,"United States","North America"
+Female,17,53.1765,Waltham,Massachusetts,"United States","North America"
+Female,17,72.0000,"Ft Lauderdale",Florida,"United States","North America"
+Male,17,54.7647,Bloomsburg,Pennsylvania,"United States","North America"
+Female,17,87.0000,Oberstaufen,"Freistaat Bayern",Germany,Europe
+Male,17,36.6471,"Crystal Lake",Illinois,"United States","North America"
+Female,17,79.0000,Bloomington,Illinois,"United States","North America"
+Female,17,54.9412,Vernon,"British Columbia",Canada,"North America"
+Male,17,57.0000,Burgthann,"Freistaat Bayern",Germany,Europe
+Female,17,61.7647,Ingolstadt,"Freistaat Bayern",Germany,Europe
+Male,17,52.0000,Horatio,Arkansas,"United States","North America"
+Male,17,35.0588,Springfield,Illinois,"United States","North America"
+Female,17,77.0000,KENYON,Wigan,"United Kingdom",Europe
+Male,17,34.0000,Kittanning,Pennsylvania,"United States","North America"
+Female,17,54.7059,VIERZON,Centre,France,Europe
+Male,17,44.0000,ROSEWELL,Midlothian,"United Kingdom",Europe
+Female,17,41.0000,Chicago,Indiana,"United States","North America"
+Female,17,66.5294,"Dormagen Dormagen-Mitte",Nordrhein-Westfalen,Germany,Europe
+Male,17,67.0000,WERVIN,"Cheshire West and Chester","United Kingdom",Europe
+Female,17,70.0000,Orti,Alessandria,Italy,Europe
+Male,17,62.2941,Marquette,Michigan,"United States","North America"
+Male,17,64.5294,Wenatchee,Washington,"United States","North America"
+Female,17,60.0000,KINGSAND,Cornwall,"United Kingdom",Europe
+Male,17,38.2353,Davenport,Illinois,"United States","North America"
+Female,17,29.7647,Chemnitz,"Freistaat Sachsen",Germany,Europe
+Female,17,70.0000,Willingshausen,Hessen,Germany,Europe
+Male,17,29.0000,ODSTOCK,Wiltshire,"United Kingdom",Europe
+Male,17,53.4118,"Port Jefferson Stati","New York","United States","North America"
+Female,17,25.0000,"Valle Sauglio",Torino,Italy,Europe
+Male,17,86.0000,Manassas,Virginia,"United States","North America"
+Female,17,63.9412,TORCY,Ãle-de-France,France,Europe
+Male,17,35.2353,Reston,Maryland,"United States","North America"
+Female,17,41.1176,Malton,Ontario,Canada,"North America"
+Male,17,47.7059,Lansing,Michigan,"United States","North America"
+Male,17,70.0000,Almere,Flevoland,Netherlands,Europe
+Male,17,80.0000,BLACKBRAES,Falkirk,"United Kingdom",Europe
+Male,17,53.0000,"Stuttgart Feuerbach",Baden-WÃ¼rttemberg,Germany,Europe
+Male,17,65.0000,Glendive,Montana,"United States","North America"
+Male,17,38.6471,"Staten Island","New York","United States","North America"
+Male,17,42.2941,Sedalia,Missouri,"United States","North America"
+Male,17,55.0000,Bellevue,Michigan,"United States","North America"
+Female,17,34.6471,"Saint Paul",Minnesota,"United States","North America"
+Male,17,48.0000,CHISELDON,Swindon,"United Kingdom",Europe
+Male,17,59.1176,"Santa Clara",California,"United States","North America"
+Female,17,41.0000,NYTON,Sussex,"United Kingdom",Europe
+Female,17,59.9412,Dresden,"Freistaat Sachsen",Germany,Europe
+Female,17,88.0588,Cochem,Rheinland-Pfalz,Germany,Europe
+Male,16,33.3125,Edinburg,Texas,"United States","North America"
+Male,16,64.0000,"Woodland Hills",California,"United States","North America"
+Female,16,44.6875,"Twin Falls",Idaho,"United States","North America"
+Male,16,68.0000,Robinson,Texas,"United States","North America"
+Male,16,63.8750,Gainesville,Georgia,"United States","North America"
+Male,16,59.0000,Niesky,"Freistaat Sachsen",Germany,Europe
+Male,16,61.5000,Kanata,Ontario,Canada,"North America"
+Male,16,31.0000,Teglia,Genova,Italy,Europe
+Male,16,39.0000,Fries,Virginia,"United States","North America"
+Male,16,38.0000,Birkenwerder,Brandenburg,Germany,Europe
+Male,16,62.3750,MARSEILLE,"Provence-Alpes-CÃ´te d'Azur",France,Europe
+Male,16,39.0000,Altenmoor,Schleswig-Holstein,Germany,Europe
+Female,16,80.1250,Riverside,California,"United States","North America"
+Female,16,31.5625,Providence,"Rhode Island","United States","North America"
+Female,16,66.0000,HOSE,Melton,"United Kingdom",Europe
+Female,16,88.0000,TELSCOMBE,Lewes,"United Kingdom",Europe
+Male,16,72.3750,Cornwall,Ontario,Canada,"North America"
+Female,16,77.0000,Piraino,Messina,Italy,Europe
+Male,16,42.2500,Brattleboro,Vermont,"United States","North America"
+Male,16,53.0000,"NORTON MALREWARD",Bristol,"United Kingdom",Europe
+Female,16,39.6250,Fremont,California,"United States","North America"
+Female,16,55.5000,Fairfax,Virginia,"United States","North America"
+Female,16,37.0000,"Castelnuovo Di San Pio Delle Camere",L'Aquila,Italy,Europe
+Female,16,35.1875,"Campbell River","British Columbia",Canada,"North America"
+Male,16,68.1875,Corona,California,"United States","North America"
+Female,16,32.0000,Downey,California,"United States","North America"
+Female,16,59.2500,Harrisburg,Pennsylvania,"United States","North America"
+Male,16,63.0000,Helen,Georgia,"United States","North America"
+Female,16,25.0000,WHITEHILL,Swale,"United Kingdom",Europe
+Female,16,44.0625,Tacoma,Washington,"United States","North America"
+Male,16,43.0000,CORRY,Highland,"United Kingdom",Europe
+Female,16,66.3125,Warrensburg,Missouri,"United States","North America"
+Female,16,38.0000,BROUGHTON,"Orkney Islands","United Kingdom",Europe
+Female,16,69.8750,Kamloops,"British Columbia",Canada,"North America"
+Female,16,68.0625,Greensboro,"North Carolina","United States","North America"
+Male,16,38.0625,Troy,Michigan,"United States","North America"
+Female,16,29.0000,Hamilton,Ohio,"United States","North America"
+Female,16,58.0000,"Gast Glacier Park",Montana,"United States","North America"
+Male,16,39.0000,Newark,Pennsylvania,"United States","North America"
+Male,16,47.8125,Nieuwegein,Utrecht,Netherlands,Europe
+Male,16,31.0000,Lubbock,Texas,"United States","North America"
+Male,16,68.4375,Ebermannstadt,"Freistaat Bayern",Germany,Europe
+Male,16,69.1875,"West Valley City",Utah,"United States","North America"
+Female,16,77.0000,BEELEY,"Derbyshire Dales","United Kingdom",Europe
+Male,16,47.0000,MONTAUBAN,Midi-PyrÃ©nÃ©es,France,Europe
+Male,16,23.0000,Aschenhausen,"Freistaat ThÃ¼ringen",Germany,Europe
+Male,16,55.7500,Mansfield,Ohio,"United States","North America"
+Female,16,47.9375,Centennial,Colorado,"United States","North America"
+Female,16,69.8125,"Deerfield Beach",Florida,"United States","North America"
+Male,16,66.0000,Burnet,Texas,"United States","North America"
+Male,16,41.0000,Whitefish,Ontario,Canada,"North America"
+Male,16,56.0000,Morehead,Kentucky,"United States","North America"
+Female,16,65.6250,CANNES,"Provence-Alpes-CÃ´te d'Azur",France,Europe
+Male,16,30.0000,LÃ¼tz,Rheinland-Pfalz,Germany,Europe
+Male,16,51.1875,"Rocky Mount","North Carolina","United States","North America"
+Male,16,78.7500,Lombard,Illinois,"United States","North America"
+Female,16,52.3750,Warngau,"Freistaat Bayern",Germany,Europe
+Male,16,53.7500,"LÃ¼denscheid Freisenberg",Nordrhein-Westfalen,Germany,Europe
+Male,16,81.1250,Mansfield,Massachusetts,"United States","North America"
+Female,16,59.5000,Deventer,Overijssel,Netherlands,Europe
+Male,16,87.0000,L'HAÂ-LES-ROSES,Ãle-de-France,France,Europe
+Male,16,64.7500,Cincinnati,Ohio,"United States","North America"
+Male,16,57.5000,Stamford,Connecticut,"United States","North America"
+Female,16,77.0000,Sterling,Illinois,"United States","North America"
+Male,16,55.1250,Eindhoven,Noord-Brabant,Netherlands,Europe
+Female,16,35.0625,London,Ontario,Canada,"North America"
+Male,16,45.0000,"LLANDDANIEL FAB",Anglesey,"United Kingdom",Europe
+Female,16,69.0000,Overton,Swansea,"United Kingdom",Europe
+Male,16,41.0000,"Finale Ligure",Savona,Italy,Europe
+Female,16,83.0000,BARWIDGEE,Victoria,Australia,Australia
+Male,16,89.0000,Lewisburg,"West Virginia","United States","North America"
+Male,16,38.4375,Clanton,Alabama,"United States","North America"
+Female,16,56.0000,Schonungen,"Freistaat Bayern",Germany,Europe
+Female,16,33.0000,Nisswa,Minnesota,"United States","North America"
+Male,16,58.0000,Pedescala,Vicenza,Italy,Europe
+Female,16,68.0000,Epinel,Aosta,Italy,Europe
+Male,16,55.0000,"Ocean Park",Washington,"United States","North America"
+Male,16,25.0000,Leominster,Massachusetts,"United States","North America"
+Male,16,79.0000,Palmdale,California,"United States","North America"
+Female,16,65.6875,"El Monte",California,"United States","North America"
+Male,16,56.6875,"Richmond Hill",Ontario,Canada,"North America"
+Female,15,76.0000,Douglasville,Georgia,"United States","North America"
+Male,15,73.8667,"Niagara Falls",Ontario,Canada,"North America"
+Male,15,58.0000,NETHERHAMPTON,Wiltshire,"United Kingdom",Europe
+Male,15,48.2000,Alexandria,Virginia,"United States","North America"
+Female,15,74.6000,Baden-Baden,Baden-WÃ¼rttemberg,Germany,Europe
+Male,15,36.0000,TOTTERNHOE,"Central Bedfordshire","United Kingdom",Europe
+Male,15,58.3333,Wallingford,Connecticut,"United States","North America"
+Female,15,55.9333,"Boca Raton",Florida,"United States","North America"
+Male,15,37.0000,CLAWTHORPE,Lancaster,"United Kingdom",Europe
+Male,15,24.0000,Marshalltown,Iowa,"United States","North America"
+Male,15,73.3333,"High Point","North Carolina","United States","North America"
+Male,15,46.0000,"HIGH KILBURN",York,"United Kingdom",Europe
+Male,15,73.0000,Vaglia,Firenze,Italy,Europe
+Male,15,65.0000,"Oak Park",Illinois,"United States","North America"
+Female,15,60.7333,Vegreville,Alberta,Canada,"North America"
+Male,15,50.0000,HUTHWAITE,Ashfield,"United Kingdom",Europe
+Male,15,59.0000,Decatur,Georgia,"United States","North America"
+Male,15,87.0000,"Royce Cityt",Texas,"United States","North America"
+Male,15,30.0000,Kentville,"Nova Scotia",Canada,"North America"
+Male,15,51.2000,Centralia,Illinois,"United States","North America"
+Male,15,78.8000,VILLENEUVE-D'ASCQ,Nord-Pas-de-Calais,France,Europe
+Female,15,52.0000,ANGERS,"Pays de la Loire",France,Europe
+Female,15,37.0000,"Council Bluffs",Iowa,"United States","North America"
+Male,15,58.2000,Bonn,Nordrhein-Westfalen,Germany,Europe
+Female,15,85.0000,Antioch,California,"United States","North America"
+Male,15,65.0000,Dillingen,"Freistaat ThÃ¼ringen",Germany,Europe
+Male,15,73.0000,AISLABY,"North Yorkshire","United Kingdom",Europe
+Female,15,38.0000,EVERLEIGH,Kennet,"United Kingdom",Europe
+Female,15,46.0000,"Laurel Hill","North Carolina","United States","North America"
+Female,15,85.0000,Eunice,Louisiana,"United States","North America"
+Male,15,73.0000,Tualatin,Oregon,"United States","North America"
+Female,15,53.0000,"KUNDA PARK",Queensland,Australia,Australia
+Male,15,52.6667,"Mc Kinney",Texas,"United States","North America"
+Male,15,26.0000,WHINNYFOLD,Aberdeenshire,"United Kingdom",Europe
+Male,15,30.0000,"MARSTON ST LAWRENCE",Cherwell,"United Kingdom",Europe
+Female,15,47.0000,Wilmington,"North Carolina","United States","North America"
+Female,15,62.0000,EASTRY,Kent,"United Kingdom",Europe
+Male,15,76.0000,Milledgeville,Georgia,"United States","North America"
+Female,15,76.4000,Mansfield,Ohio,"United States","North America"
+Male,15,71.0000,"Plymouth Meeting",Pennsylvania,"United States","North America"
+Female,15,83.0000,"West Alexander",Pennsylvania,"United States","North America"
+Female,15,30.0000,Osceola,Arkansas,"United States","North America"
+Female,15,34.0000,Gibsons,"British Columbia",Canada,"North America"
+Male,15,82.0000,"New Bedford",Massachusetts,"United States","North America"
+Female,15,75.3333,"Fort Wayne",Indiana,"United States","North America"
+Female,15,57.0000,Horbach,Rheinland-Pfalz,Germany,Europe
+Male,15,74.0000,Soso,Mississippi,"United States","North America"
+Male,15,49.4000,Livonia,Michigan,"United States","North America"
+Female,15,50.0000,Parksley,Virginia,"United States","North America"
+Female,15,58.0000,Middletown,Ohio,"United States","North America"
+Male,15,26.0000,Ripatransone,"Ascoli Piceno",Italy,Europe
+Female,15,44.0667,"San Angelo",Texas,"United States","North America"
+Male,15,68.0000,"Castelnuovo Dei Sabbioni",Arezzo,Italy,Europe
+Female,15,54.0000,BALGAVIES,Angus,"United Kingdom",Europe
+Male,15,70.3333,Conway,Arkansas,"United States","North America"
+Female,15,57.0000,Oberkotzau,"Freistaat Bayern",Germany,Europe
+Female,15,33.0000,CHURCHTOWN,"Isle of Man","United Kingdom",Europe
+Female,15,59.0000,Bayreuth,"Freistaat Bayern",Germany,Europe
+Male,15,69.4667,Pascagoula,Mississippi,"United States","North America"
+Male,15,84.0000,"Machesney Park",Illinois,"United States","North America"
+Female,15,79.0000,Piedmont,"South Carolina","United States","North America"
+Male,15,37.0000,"Essex Junction",Vermont,"United States","North America"
+Male,15,87.0000,Readlyn,Iowa,"United States","North America"
+Male,15,27.0000,Petersburg,Virginia,"United States","North America"
+Male,15,37.4000,Helena,Montana,"United States","North America"
+Female,15,51.4000,Northglenn,Colorado,"United States","North America"
+Male,15,73.0000,Newton,"Scottish Borders","United Kingdom",Europe
+Female,15,84.0000,Burnsville,Mississippi,"United States","North America"
+Female,15,30.0000,"LOWER PENN",Wolverhampton,"United Kingdom",Europe
+Female,15,53.0000,Schefflenz,Baden-WÃ¼rttemberg,Germany,Europe
+Female,15,51.4667,STRASBOURG,Alsace,France,Europe
+Female,15,54.6667,"Penns Neck","New Jersey","United States","North America"
+Female,15,46.0000,SEVILLE,Victoria,Australia,Australia
+Male,15,51.0000,"Walnut Creek",California,"United States","North America"
+Male,15,62.0000,BARTON-LE-STREET,"North Yorkshire","United Kingdom",Europe
+Female,15,78.2000,Grassland,Alberta,Canada,"North America"
+Male,15,51.0000,Katzenbach,Rheinland-Pfalz,Germany,Europe
+Male,15,32.0000,EDALE,Sheffield,"United Kingdom",Europe
+Female,15,79.0000,Cottonwood,Arizona,"United States","North America"
+Male,15,30.0000,"Lake City",Arkansas,"United States","North America"
+Female,15,32.4000,Heemskerk,Noord-Holland,Netherlands,Europe
+Female,15,43.3333,Madisonville,Kentucky,"United States","North America"
+Male,15,60.0000,"Castano Primo",Milano,Italy,Europe
+Male,15,89.0000,"WOKEFIELD PARK",Berkshire,"United Kingdom",Europe
+Female,15,86.0000,Virgie,Kentucky,"United States","North America"
+Female,15,29.0000,LOOS,Nord-Pas-de-Calais,France,Europe
+Male,15,59.0000,Fitchburg,Massachusetts,"United States","North America"
+Female,15,55.0000,Espel,Flevoland,Netherlands,Europe
+Female,15,54.0000,REDWOOD,Queensland,Australia,Australia
+Male,15,51.4000,Kiel,Schleswig-Holstein,Germany,Europe
+Female,15,30.0000,Franklin,Massachusetts,"United States","North America"
+Female,15,33.0000,CRAIGDALLIE,"Perth and Kinross","United Kingdom",Europe
+Female,15,47.4000,Casper,Wyoming,"United States","North America"
+Female,14,68.0000,"Trino Vercellese",Vercelli,Italy,Europe
+Male,14,55.1429,Fairborn,Ohio,"United States","North America"
+Female,14,37.4286,Toledo,Ohio,"United States","North America"
+Male,14,46.5714,Brock,Saskatchewan,Canada,"North America"
+Female,14,68.0000,"San Marzano Oliveto",Asti,Italy,Europe
+Male,14,62.9286,Staffelstein,"Freistaat Bayern",Germany,Europe
+Female,14,35.0000,"San Rafael",California,"United States","North America"
+Female,14,55.2143,Lakewood,"New Jersey","United States","North America"
+Female,14,43.1429,"White Plains","New York","United States","North America"
+Female,14,47.1429,"Rapid City","South Dakota","United States","North America"
+Male,14,66.0000,Lancaster,Kansas,"United States","North America"
+Male,14,57.5714,Burnaby,"British Columbia",Canada,"North America"
+Male,14,40.2857,"Red Deer",Alberta,Canada,"North America"
+Female,14,62.8571,Newnan,Georgia,"United States","North America"
+Female,14,83.0000,Morrisville,"North Carolina","United States","North America"
+Male,14,60.0000,Ciminna,Palermo,Italy,Europe
+Female,14,34.0000,"WEST BERGHOLT",Colchester,"United Kingdom",Europe
+Female,14,67.2857,Asheville,"North Carolina","United States","North America"
+Female,14,85.0000,Kirchensittenbach,"Freistaat Bayern",Germany,Europe
+Male,14,23.0000,REDNAL,Birmingham,"United Kingdom",Europe
+Female,14,44.0000,"Hamilton Square","New Jersey","United States","North America"
+Male,14,61.0000,Greenville,California,"United States","North America"
+Female,14,58.0000,Neuweiler,Baden-WÃ¼rttemberg,Germany,Europe
+Male,14,73.0000,Worthington,Ohio,"United States","North America"
+Male,14,29.0000,ANGMERING,Arun,"United Kingdom",Europe
+Male,14,51.0000,CHALTON,Hampshire,"United Kingdom",Europe
+Male,14,29.0000,Hawkinsville,Georgia,"United States","North America"
+Male,14,45.5000,Halsteren,Noord-Brabant,Netherlands,Europe
+Female,14,52.0000,Portland,Pennsylvania,"United States","North America"
+Male,14,54.4286,"Farmington Hills",Michigan,"United States","North America"
+Female,14,75.1429,Niederwallmenach,Rheinland-Pfalz,Germany,Europe
+Male,14,24.2143,"Grande Prairie",Alberta,Canada,"North America"
+Female,14,66.2143,NICE,"Provence-Alpes-CÃ´te d'Azur",France,Europe
+Female,14,72.3571,Windsor,Connecticut,"United States","North America"
+Female,14,86.0000,Henderson,Kentucky,"United States","North America"
+Female,14,46.0000,Bessemer,Alabama,"United States","North America"
+Female,14,37.0000,Brampton,Ontario,Canada,"North America"
+Female,14,56.0000,Windsor,Ontario,Canada,"North America"
+Female,14,29.0000,Bellombra,Rovigo,Italy,Europe
+Female,14,24.0000,Wilton,Connecticut,"United States","North America"
+Female,14,31.0000,Plauen,"Freistaat Sachsen",Germany,Europe
+Female,14,61.0000,CROSSWELL,Pembrokeshire,"United Kingdom",Europe
+Male,14,45.0000,Dubuque,Iowa,"United States","North America"
+Female,14,62.2143,"THE VINES","Western Australia",Australia,Australia
+Female,14,25.0000,Honolulu,Hawaii,"United States","North America"
+Male,14,34.5714,Wheeling,"West Virginia","United States","North America"
+Female,14,59.2857,Chantilly,Virginia,"United States","North America"
+Male,14,32.0000,Lexington,Nebraska,"United States","North America"
+Female,14,50.0000,Albany,Oregon,"United States","North America"
+Female,14,27.0000,"LLANDDEWI RHYDDERCH",Monmouthshire,"United Kingdom",Europe
+Female,14,48.0000,Campbellford,Ontario,Canada,"North America"
+Male,14,66.0000,Waxahachie,Texas,"United States","North America"
+Male,14,55.0000,Sumter,"South Carolina","United States","North America"
+Male,14,65.9286,Etobicoke,Ontario,Canada,"North America"
+Male,14,39.0000,Dulles,Virginia,"United States","North America"
+Male,14,89.0000,INNELLAN,Argyllshire,"United Kingdom",Europe
+Female,14,66.0000,Olney,Illinois,"United States","North America"
+Male,14,36.0000,HERSHAM,Cornwall,"United Kingdom",Europe
+Male,14,56.0000,Chia,Viterbo,Italy,Europe
+Male,14,28.0000,"LÃ¼denscheid BrÃ¼gge",Nordrhein-Westfalen,Germany,Europe
+Male,14,49.8571,Harahan,Louisiana,"United States","North America"
+Male,14,68.5714,Larkspur,California,"United States","North America"
+Female,14,31.7143,Fairbanks,Alaska,"United States","North America"
+Female,14,47.8571,Branchburg,"New Jersey","United States","North America"
+Male,14,57.5714,THIONVILLE,Lorraine,France,Europe
+Female,14,83.4286,Paducah,Kentucky,"United States","North America"
+Female,14,61.0000,"ALLT NA H-AIRBHE",Highland,"United Kingdom",Europe
+Male,14,26.0000,Midland,Texas,"United States","North America"
+Female,14,59.0000,"Wolfe Island",Ontario,Canada,"North America"
+Female,14,32.0000,THURNING,"East Northamptonshire","United Kingdom",Europe
+Male,14,31.0000,"St Peters",Missouri,"United States","North America"
+Male,14,80.0000,Heidenau,Niedersachsen,Germany,Europe
+Female,14,70.0000,BRIDESTOWE,Exeter,"United Kingdom",Europe
+Female,14,68.0000,Harvey,Illinois,"United States","North America"
+Female,14,35.0000,"ST DENNIS",Cornwall,"United Kingdom",Europe
+Male,14,42.0000,"St Laurent",Quebec,Canada,"North America"
+Female,14,79.0714,"Fort Worth",Kansas,"United States","North America"
+Male,14,69.8571,Zierikzee,Zeeland,Netherlands,Europe
+Female,14,76.0000,Dagsboro,Delaware,"United States","North America"
+Female,14,86.0000,"Monte Rio",California,"United States","North America"
+Female,14,71.0000,"La Harpe",Illinois,"United States","North America"
+Female,14,56.1429,DUNKERQUE,Nord-Pas-de-Calais,France,Europe
+Male,14,25.0000,Utica,"New York","United States","North America"
+Male,14,60.0000,GrÃ¶mbach,Baden-WÃ¼rttemberg,Germany,Europe
+Male,14,67.0000,TERRINGTON,York,"United Kingdom",Europe
+Male,14,30.0000,Lilburn,Georgia,"United States","North America"
+Male,14,47.9286,"Green Bay",Wisconsin,"United States","North America"
+Male,14,78.1429,"Sherman Oaks",California,"United States","North America"
+Female,14,58.0000,"Trade Lake",Wisconsin,"United States","North America"
+Female,14,87.0000,Lahn,Niedersachsen,Germany,Europe
+Female,14,39.0000,"HASTINGS POINT","New South Wales",Australia,Australia
+Female,13,23.0000,Carlsbad,"New Mexico","United States","North America"
+Male,13,36.3846,Kokomo,Indiana,"United States","North America"
+Male,13,30.0000,"South Pickering",Ontario,Canada,"North America"
+Male,13,58.0000,DENNYLOANHEAD,Falkirk,"United Kingdom",Europe
+Male,13,75.0000,Bebensee,Schleswig-Holstein,Germany,Europe
+Male,13,67.0000,Newman,Illinois,"United States","North America"
+Male,13,52.9231,Branchburg,"New Jersey","United States","North America"
+Male,13,85.0000,"Garden Grove",California,"United States","North America"
+Male,13,75.0000,Beltsville,Maryland,"United States","North America"
+Male,13,62.4615,"Sioux Falls","South Dakota","United States","North America"
+Female,13,46.0000,"ITCHEN ABBAS",Winchester,"United Kingdom",Europe
+Female,13,70.0000,STAINBY,"South Kesteven","United Kingdom",Europe
+Male,13,50.2308,Oberthulba,"Freistaat Bayern",Germany,Europe
+Male,13,26.0000,Alpharetta,Georgia,"United States","North America"
+Male,13,54.0000,Friedland,Mecklenburg-Vorpommern,Germany,Europe
+Female,13,34.8462,Frederick,Maryland,"United States","North America"
+Male,13,58.0000,Medina,Ohio,"United States","North America"
+Female,13,64.0000,Corydon,Kentucky,"United States","North America"
+Female,13,75.0000,Strongsville,Ohio,"United States","North America"
+Male,13,51.0000,"Bremen Schwachhausen","Freie Hansestadt Bremen",Germany,Europe
+Male,13,24.6154,Augusta,Georgia,"United States","North America"
+Male,13,42.0000,"Bear River City",Utah,"United States","North America"
+Male,13,45.3846,Lawrence,Massachusetts,"United States","North America"
+Female,13,56.0000,"Jersey City","New Jersey","United States","North America"
+Male,13,44.2308,VERTOU,"Pays de la Loire",France,Europe
+Male,13,68.0000,Hof,"Freistaat Bayern",Germany,Europe
+Female,13,74.0000,"Mc Lean",Maryland,"United States","North America"
+Female,13,55.0000,Hohenwarth,"Freistaat Bayern",Germany,Europe
+Male,13,55.8462,WÃ¼rzburg,"Freistaat Bayern",Germany,Europe
+Male,13,46.3846,"COMPTON PAUNCEFOOT","South Somerset","United Kingdom",Europe
+Male,13,28.0000,"PLAS ISAF",Conwy,"United Kingdom",Europe
+Female,13,57.0000,Mililani,Hawaii,"United States","North America"
+Female,13,51.6154,Frisco,Texas,"United States","North America"
+Male,13,73.4615,BAWDRIP,Somerset,"United Kingdom",Europe
+Male,13,60.2308,Bussum,Noord-Holland,Netherlands,Europe
+Male,13,70.0000,"Lock Haven",Pennsylvania,"United States","North America"
+Female,13,69.0000,HARRINGTON,Daventry,"United Kingdom",Europe
+Male,13,61.0000,BREDON,Tewkesbury,"United Kingdom",Europe
+Female,13,64.0000,Gaithersburg,Maryland,"United States","North America"
+Male,13,77.2308,Weiden,"Freistaat Bayern",Germany,Europe
+Male,13,63.4615,"Bad Rappenau",Baden-WÃ¼rttemberg,Germany,Europe
+Female,13,31.0000,Osterspai,Rheinland-Pfalz,Germany,Europe
+Female,13,78.0000,MANATON,Teignbridge,"United Kingdom",Europe
+Female,13,72.8462,Anderson,Indiana,"United States","North America"
+Female,13,22.0000,"Hampton Bays","New York","United States","North America"
+Male,13,48.0769,GRENOBLE,RhÃ´ne-Alpes,France,Europe
+Male,13,33.0000,BREOCH,Kirkcudbrightshire,"United Kingdom",Europe
+Female,13,34.0000,Decatur,Georgia,"United States","North America"
+Female,13,78.8462,Gibsonia,Pennsylvania,"United States","North America"
+Male,13,41.0000,ROSEBUSH,Carmarthenshire,"United Kingdom",Europe
+Female,13,48.7692,Carrollton,Texas,"United States","North America"
+Female,13,31.0000,Madison,Kansas,"United States","North America"
+Male,13,72.0000,Potsdam,Brandenburg,Germany,Europe
+Female,13,46.0769,Washington,Maryland,"United States","North America"
+Female,13,45.0769,Stanley,Leeds,"United Kingdom",Europe
+Male,13,45.0000,Owensboro,Kentucky,"United States","North America"
+Female,13,53.0000,Gap,Pennsylvania,"United States","North America"
+Male,13,58.4615,Albion,Idaho,"United States","North America"
+Male,13,24.0000,Magdeburg,Sachsen-Anhalt,Germany,Europe
+Female,13,76.0000,NERRING,Victoria,Australia,Australia
+Female,13,74.2308,BROMSASH,Hereford,"United Kingdom",Europe
+Male,13,22.0000,Gevenich,Rheinland-Pfalz,Germany,Europe
+Male,13,31.1538,Wageningen,Gelderland,Netherlands,Europe
+Female,13,53.0000,THORNTON-LE-MOORS,"Cheshire West and Chester","United Kingdom",Europe
+Female,13,72.0000,ALTHORPE,"North Lincolnshire","United Kingdom",Europe
+Female,13,71.9231,"Daytona Beach",Florida,"United States","North America"
+Male,13,38.0000,BLAENWAUN,Carmarthenshire,"United Kingdom",Europe
+Female,13,60.0000,Edgerton,Wisconsin,"United States","North America"
+Male,13,71.0769,MENTON,"Provence-Alpes-CÃ´te d'Azur",France,Europe
+Female,13,64.0000,MUTTERTON,Exeter,"United Kingdom",Europe
+Male,13,43.0000,MÃ¶mlingen,"Freistaat Bayern",Germany,Europe
+Female,13,68.0000,"Warner Robins",Georgia,"United States","North America"
+Female,13,80.4615,Quesnel,"British Columbia",Canada,"North America"
+Female,13,89.0000,MIDDLEZOY,Somerset,"United Kingdom",Europe
+Male,13,34.0000,"GREAT PONTON","South Kesteven","United Kingdom",Europe
+Female,13,86.0000,"Cypress Lake",Florida,"United States","North America"
+Male,13,79.0000,Aglietti,Biella,Italy,Europe
+Male,13,46.0000,"Silver Spring",Maryland,"United States","North America"
+Male,13,28.0000,"HIGH LEVEN",Stockton-on-Tees,"United Kingdom",Europe
+Male,13,46.0769,"State College",Pennsylvania,"United States","North America"
+Female,13,22.0000,RHYDYMWYN,Flintshire,"United Kingdom",Europe
+Female,13,53.0000,Dietersheim,"Freistaat Bayern",Germany,Europe
+Female,13,49.1538,Freehold,"New Jersey","United States","North America"
+Female,13,70.0000,BARHAM,"New South Wales",Australia,Australia
+Female,13,76.0000,LLANISHEN,Cardiff,"United Kingdom",Europe
+Male,13,52.0000,CREIL,Picardie,France,Europe
+Female,13,36.0000,Midvale,Utah,"United States","North America"
+Female,13,25.0000,TRESCOWE,Cornwall,"United Kingdom",Europe
+Female,13,43.5385,Amstelveen,Noord-Holland,Netherlands,Europe
+Female,13,75.0000,"Mount Pleasant Mills",Pennsylvania,"United States","North America"
+Female,13,48.0000,Apex,"North Carolina","United States","North America"
+Male,13,66.0000,Juneau,Alaska,"United States","North America"
+Female,13,49.3077,Silverdale,Washington,"United States","North America"
+Male,13,77.0000,"Taibon Agordino",Belluno,Italy,Europe
+Female,13,59.0000,Englewood,Colorado,"United States","North America"
+Female,13,61.0000,Clinton,Oklahoma,"United States","North America"
+Female,13,37.0000,Weidenbach,Rheinland-Pfalz,Germany,Europe
+Female,13,69.9231,LILLE,Nord-Pas-de-Calais,France,Europe
+Female,13,41.0769,Barrie,Ontario,Canada,"North America"
+Female,13,49.6154,BOULOGNE-SUR-MER,Nord-Pas-de-Calais,France,Europe
+Male,13,58.0000,"CROSS LANE HEAD",Shropshire,"United Kingdom",Europe
+Male,13,49.5385,Kennewick,Washington,"United States","North America"

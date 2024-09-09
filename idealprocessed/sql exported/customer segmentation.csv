@@ -1,0 +1,13 @@
+Age_Segment,Spend_Segment,Number_of_Customers
+41-60,"High Spend",3098
+25-40,"High Spend",2468
+"Above 60","High Spend",4367
+"Above 60","Medium Spend",478
+41-60,"Low Spend",129
+"Under 25","Medium Spend",39
+"Under 25","High Spend",419
+41-60,"Medium Spend",333
+"Above 60","Low Spend",179
+25-40,"Medium Spend",275
+25-40,"Low Spend",88
+"Under 25","Low Spend",14

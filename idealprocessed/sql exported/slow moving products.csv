@@ -1,0 +1,1001 @@
+"Product Name",Total_Quantity_Sold,Total_Orders,Product_Movement_Status
+"Adventure Works Chandelier M8150 Black",1,1,Slow-Moving
+"Adventure Works Chandelier M8150 Silver",1,1,Slow-Moving
+"Adventure Works Desk Lamp E1300 Black",1,1,Slow-Moving
+"Litware 16" White Oscillating Stand Fan E701 White",1,1,Slow-Moving
+"Proseware Chandelier M0815 Black",1,1,Slow-Moving
+"Proseware Floor Lamp X0115 Blue",1,1,Slow-Moving
+"Proseware Wall Lamp E0215 Blue",1,1,Slow-Moving
+"WWI Floor Lamp M215 Grey",1,1,Slow-Moving
+"WWI Floor Lamp X115 Blue",1,1,Slow-Moving
+"WWI Wall Lamp E315 White",1,1,Slow-Moving
+"Adventure Works Chandelier M8150 White",2,1,Slow-Moving
+"Adventure Works Floor Lamp X1150 Blue",2,1,Slow-Moving
+"Contoso Air conditioner 25000BTU L1672 Blue",2,2,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1400 White",2,1,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1530 Black",2,2,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M145 Blue",2,2,Slow-Moving
+"Litware 80mm LED Dual PCI Slot Fan E1501 Blue",2,2,Slow-Moving
+"Litware Home Theater System 5.1 Channel M511 Black",2,1,Slow-Moving
+"Litware Home Theater System 7.1 Channel M710 Brown",2,2,Slow-Moving
+"Litware Wall Lamp E2015 Grey",2,2,Slow-Moving
+"Litware Wall Lamp E3015 Silver",2,1,Slow-Moving
+"Proseware Air conditioner 12000BTU M640 Red",2,2,Slow-Moving
+"Proseware Chandelier M0615 Silver",2,1,Slow-Moving
+"Proseware Desk Lamp E0120 Blue",2,1,Slow-Moving
+"Proseware Desk Lamp E0130 Blue",2,1,Slow-Moving
+"WWI Chandelier M615 Black",2,1,Slow-Moving
+"WWI Chandelier M615 White",2,2,Slow-Moving
+"WWI Chandelier M815 Black",2,1,Slow-Moving
+"Adventure Works Chandelier M6150 White",3,1,Slow-Moving
+"Contoso Air conditioner 6000BTU E0180 Grey",3,2,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1200 Black",3,2,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1220 White",3,2,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1520 Black",3,2,Slow-Moving
+"Litware 120mm Blue LED Case Fan E901 Black",3,2,Slow-Moving
+"Litware 80mm LED Dual PCI Slot Fan E1501 Yellow",3,1,Slow-Moving
+"Litware Chandelier M6015 White",3,1,Slow-Moving
+"Litware Chandelier M8015 Grey",3,2,Slow-Moving
+"Litware Desk Lamp E1020 White",3,2,Slow-Moving
+"Litware Floor Lamp X1015 Black",3,2,Slow-Moving
+"Litware Home Theater System 2.1 Channel E211 Brown",3,2,Slow-Moving
+"Litware Home Theater System 2.1 Channel E212 Black",3,2,Slow-Moving
+"Litware Home Theater System 5.1 Channel M514 Silver",3,2,Slow-Moving
+"Litware Wall Lamp E3015 Blue",3,1,Slow-Moving
+"Proseware Air conditioner 25000BTU L167 Red",3,2,Slow-Moving
+"Proseware Air conditioner 8000BTU M320 Red",3,2,Slow-Moving
+"Proseware Chandelier M0615 Grey",3,1,Slow-Moving
+"Proseware Desk Lamp E0130 Grey",3,2,Slow-Moving
+"Proseware Floor Lamp X0115 Grey",3,2,Slow-Moving
+"WWI Desk Lamp E120 Black",3,3,Slow-Moving
+"WWI Desk Lamp E120 Silver",3,1,Slow-Moving
+"Adventure Works Chandelier M6150 Grey",4,1,Slow-Moving
+"Adventure Works Floor Lamp M2150 White",4,2,Slow-Moving
+"Adventure Works Wall Lamp E2150 Black",4,2,Slow-Moving
+"Contoso SLR Camera 35" M358 Blue",4,3,Slow-Moving
+"Contoso Washer & Dryer 24in M240 White",4,2,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse M35 Orange",4,3,Slow-Moving
+"Litware 180 CFM Vertical Discharge Fan X450 White",4,2,Slow-Moving
+"Litware 80mm Dual Ball Bearing Case Fan E1001 Green",4,2,Slow-Moving
+"Litware Desk Lamp E1030 White",4,2,Slow-Moving
+"Litware Home Theater System 2.1 Channel E212 Silver",4,2,Slow-Moving
+"Litware Home Theater System 4.1 Channel M410 Brown",4,3,Slow-Moving
+"Litware Home Theater System 5.1 Channel M513 Brown",4,3,Slow-Moving
+"Litware Home Theater System 5.1 Channel M514 Black",4,2,Slow-Moving
+"Litware Wall Lamp E3015 Black",4,2,Slow-Moving
+"Litware Wall Lamp E3015 Grey",4,2,Slow-Moving
+"Litware Wall Lamp E3015 White",4,1,Slow-Moving
+"Proseware Air conditioner 5200BTU E100 Silver",4,4,Slow-Moving
+"WWI Wall Lamp E315 Black",4,2,Slow-Moving
+"WWI Wall Lamp E315 Grey",4,1,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 3 E300 Black",5,2,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1400 Silver",5,1,Slow-Moving
+"Contoso Home Theater System 7.1 Channel M1700 Brown",5,2,Slow-Moving
+"Contoso Home/Office Laptop Power Adapter E300 Grey",5,4,Slow-Moving
+"Contoso Smart Battery M901 Blue",5,3,Slow-Moving
+"Litware 17'' Oscillating Pedestal Fan M125 White",5,1,Slow-Moving
+"Litware 3-Speed Oscillating High-Performance Fan E201 Black",5,2,Slow-Moving
+"Litware Floor Lamp X1015 White",5,2,Slow-Moving
+"Litware Home Theater System 4.1 Channel M412 Black",5,3,Slow-Moving
+"Litware Home Theater System 5.1 Channel M510 Black",5,2,Slow-Moving
+"NT Washer & Dryer 21in E2100 Silver",5,2,Slow-Moving
+"Proseware Air conditioner 8000BTU M320 Silver",5,3,Slow-Moving
+"Proseware Desk Lamp E0120 Silver",5,2,Slow-Moving
+"Proseware Desk Lamp E0130 Black",5,1,Slow-Moving
+"WWI Chandelier M615 Grey",5,3,Slow-Moving
+"WWI Desk Lamp E120 Blue",5,2,Slow-Moving
+"WWI Desk Lamp E130 Grey",5,2,Slow-Moving
+"WWI Wall Lamp E215 White",5,1,Slow-Moving
+"Contoso Air conditioner 12000BTU M0640 Silver",6,3,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1200 Brown",6,4,Slow-Moving
+"Contoso Lens cap E80 Grey",6,4,Slow-Moving
+"Litware Floor Lamp M2015 White",6,1,Slow-Moving
+"Litware Home Theater System 4.1 Channel M413 Silver",6,1,Slow-Moving
+"Litware Wall Lamp E2015 Blue",6,1,Slow-Moving
+"Litware Washer & Dryer 24in M260 White",6,3,Slow-Moving
+"NT Washer & Dryer 24in M2400 Silver",6,2,Slow-Moving
+"NT Washer & Dryer 24in M2400 White",6,4,Slow-Moving
+"Proseware Air conditioner 12000BTU M640 Grey",6,2,Slow-Moving
+"Proseware Air conditioner 7000BTU E260 Silver",6,2,Slow-Moving
+"Proseware Wall Lamp E0215 Grey",6,3,Slow-Moving
+"Proseware Wall Lamp E0215 Silver",6,2,Slow-Moving
+"SV 4GB Laptop Memory M65 Black",6,3,Slow-Moving
+"SV 4GB Laptop Memory M65 Blue",6,4,Slow-Moving
+"WWI Chandelier M815 Grey",6,3,Slow-Moving
+"WWI Chandelier M815 Silver",6,2,Slow-Moving
+"WWI Desk Lamp E130 Silver",6,2,Slow-Moving
+"WWI Floor Lamp M215 White",6,3,Slow-Moving
+"Adventure Works Desk Lamp E1200 Grey",7,2,Slow-Moving
+"Adventure Works Wall Lamp E2150 Grey",7,4,Slow-Moving
+"Adventure Works Wall Lamp E3150 Blue",7,4,Slow-Moving
+"Contoso Air conditioner 8000BTU M0320 Silver",7,4,Slow-Moving
+"Contoso Desktop Alternative Bundle E200 Black",7,4,Slow-Moving
+"Contoso Desktop Alternative Bundle E200 Grey",7,4,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1220 Brown",7,3,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1220 Silver",7,3,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1400 Brown",7,4,Slow-Moving
+"Contoso Leather Case - case for digital photo camera X20 Black",7,4,Slow-Moving
+"Contoso Smart Battery M901 White",7,4,Slow-Moving
+"Contoso Washer & Dryer 25.5in M255 Pink",7,3,Slow-Moving
+"Litware Chandelier M8015 Blue",7,2,Slow-Moving
+"Litware Desk Lamp E1020 Black",7,3,Slow-Moving
+"Litware Floor Lamp M2015 Silver",7,5,Slow-Moving
+"Litware Floor Lamp X1015 Grey",7,2,Slow-Moving
+"Litware Floor Lamp X1015 Silver",7,1,Slow-Moving
+"Litware Home Theater System 2.1 Channel E212 Brown",7,3,Slow-Moving
+"Litware Home Theater System 4.1 Channel M411 Silver",7,3,Slow-Moving
+"Litware Refrigerator 24.7CuFt X980 White",7,5,Slow-Moving
+"Litware Washer & Dryer 25.5in M350 Blue",7,3,Slow-Moving
+"Proseware Wall Lamp E0315 Silver",7,1,Slow-Moving
+"SV Keyboard E90 Grey",7,3,Slow-Moving
+"WWI Floor Lamp X115 White",7,3,Slow-Moving
+"Adventure Works Chandelier M6150 Silver",8,1,Slow-Moving
+"Adventure Works Wall Lamp E3150 White",8,3,Slow-Moving
+"Contoso Air conditioner 10000BTU M0490 Blue",8,5,Slow-Moving
+"Contoso Bright Light battery E20 Black",8,4,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1220 Black",8,3,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1540 Brown",8,2,Slow-Moving
+"Contoso Optical Wheel OEM PS/2 Mouse E60 Black",8,5,Slow-Moving
+"Contoso Ultraportable Neoprene Sleeve E30 Yellow",8,6,Slow-Moving
+"Contoso Washer & Dryer 24in M240 Blue",8,3,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse M35 Blue",8,4,Slow-Moving
+"Litware 18'' Adjustable Oscillating Pedestal Fan E301 White",8,6,Slow-Moving
+"Litware 20'' Box Fan E401 Yellow",8,2,Slow-Moving
+"Litware 80mm LED Dual PCI Slot Fan E1501 Red",8,3,Slow-Moving
+"Litware 92mm DBB Case Fan E1101 White",8,3,Slow-Moving
+"Litware Chandelier M6015 Black",8,3,Slow-Moving
+"Litware Desk Lamp E1030 Black",8,2,Slow-Moving
+"Litware Floor Lamp M2015 Grey",8,2,Slow-Moving
+"Litware Home Theater System 2.1 Channel E210 Silver",8,2,Slow-Moving
+"Litware Washer & Dryer 27in L420 Silver",8,4,Slow-Moving
+"NT Washer & Dryer 21in E2100 White",8,4,Slow-Moving
+"Proseware Air conditioner 12000BTU M640 White",8,5,Slow-Moving
+"Proseware Desk Lamp E0120 Grey",8,2,Slow-Moving
+"Proseware Desk Lamp E0130 White",8,3,Slow-Moving
+"Proseware Wall Lamp E0315 Grey",8,3,Slow-Moving
+"SV Car Video LCD7 M7001 Silver",8,3,Slow-Moving
+"SV USB Sync Charge Cable E700 Silver",8,4,Slow-Moving
+"WWI Desk Lamp E130 Black",8,3,Slow-Moving
+"WWI Wall Lamp E215 Grey",8,4,Slow-Moving
+"WWI Wall Lamp E215 Silver",8,3,Slow-Moving
+"Adventure Works Coffee Maker Super-Auto 12C X125 Grey",9,6,Slow-Moving
+"Contoso Air conditioner 6000BTU E0180 Silver",9,5,Slow-Moving
+"Contoso Coffee Maker 5C E0900 Black",9,4,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1200 White",9,3,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1500 Black",9,6,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1510 Black",9,4,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1530 Silver",9,3,Slow-Moving
+"Contoso USB Wave Multi-Media Keyboard M901 Gold",9,2,Slow-Moving
+"Litware 16" White Oscillating Stand Fan E701 Silver",9,5,Slow-Moving
+"Litware 17'' Oscillating Pedestal Fan M125 Pink",9,4,Slow-Moving
+"Litware 180 CFM Vertical Discharge Fan X450 Blue",9,4,Slow-Moving
+"Litware 80mm LED Dual PCI Slot Fan E1501 Pink",9,4,Slow-Moving
+"Litware 92mm DBB Case Fan E1101 Grey",9,3,Slow-Moving
+"Litware Chandelier M6015 Silver",9,4,Slow-Moving
+"Litware Floor Lamp M2015 Black",9,1,Slow-Moving
+"Litware Home Theater System 4.1 Channel M411 Black",9,3,Slow-Moving
+"Litware Home Theater System 4.1 Channel M411 Brown",9,4,Slow-Moving
+"Litware Wall Lamp E2015 Black",9,4,Slow-Moving
+"NT Washer & Dryer 15.5in E1550 Green",9,3,Slow-Moving
+"NT Washer & Dryer 25.5in M2550 Silver",9,4,Slow-Moving
+"Proseware Air conditioner 6000BTU E180 Red",9,5,Slow-Moving
+"Proseware Air conditioner 8000BTU M320 White",9,3,Slow-Moving
+"Proseware Chandelier M0615 Black",9,3,Slow-Moving
+"Proseware Chandelier M0815 Grey",9,2,Slow-Moving
+"Proseware Chandelier M0815 Silver",9,2,Slow-Moving
+"WWI Desk Lamp E120 Grey",9,2,Slow-Moving
+"WWI Floor Lamp X115 Grey",9,5,Slow-Moving
+"Adventure Works Desk Lamp E1200 Silver",10,2,Slow-Moving
+"Adventure Works Floor Lamp M2150 Grey",10,3,Slow-Moving
+"Adventure Works Wall Lamp E2150 Blue",10,2,Slow-Moving
+"Adventure Works Wall Lamp E3150 Black",10,3,Slow-Moving
+"Contoso Air conditioner 12000BTU M0640 White",10,5,Slow-Moving
+"Contoso Air conditioner 6000BTU E0180 Blue",10,4,Slow-Moving
+"Contoso Air conditioner 8000BTU M0320 White",10,4,Slow-Moving
+"Contoso Bluetooth Notebook Mouse X305 Black",10,3,Slow-Moving
+"Contoso Home Theater System 2.1 Channel M1210 Silver",10,2,Slow-Moving
+"Contoso Washer & Dryer 15.5in E155 Blue",10,5,Slow-Moving
+"Contoso Washer & Dryer 24in M240 Red",10,4,Slow-Moving
+"Contoso Washer & Dryer 27in L270 Silver",10,3,Slow-Moving
+"Contoso Washer & Dryer 27in L270 White",10,5,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse X205 Orange",10,4,Slow-Moving
+"Litware 120mm Blue LED Case Fan E901 Grey",10,3,Slow-Moving
+"Litware 180 CFM Vertical Discharge Fan X450 Black",10,3,Slow-Moving
+"Litware Home Theater System 7.1 Channel X711 Black",10,3,Slow-Moving
+"Litware Tower Fan E501 Yellow",10,5,Slow-Moving
+"Litware Washer & Dryer 21in E214 White",10,5,Slow-Moving
+"NT Washer & Dryer 21in E2100 Blue",10,4,Slow-Moving
+"Proseware Air conditioner 5200BTU E100 White",10,6,Slow-Moving
+"Proseware Floor Lamp X0115 Silver",10,3,Slow-Moving
+"Proseware Floor Lamp X0115 White",10,3,Slow-Moving
+"Proseware Wall Lamp E0315 Blue",10,4,Slow-Moving
+"SV Car Video LCD7 M7002 Black",10,2,Slow-Moving
+"SV Keyboard E90 White",10,7,Slow-Moving
+"SV Rechargeable Bluetooth Notebook Mouse E80 Silver",10,4,Slow-Moving
+"WWI Chandelier M615 Silver",10,2,Slow-Moving
+"WWI Chandelier M815 White",10,3,Slow-Moving
+"Adventure Works Chandelier M8150 Blue",11,3,Slow-Moving
+"Adventure Works Floor Lamp M2150 Silver",11,3,Slow-Moving
+"Adventure Works Floor Lamp X1150 White",11,3,Slow-Moving
+"Contoso Air conditioner 25000BTU L1672 Silver",11,3,Slow-Moving
+"Contoso Air conditioner 5200BTU E0100 Blue",11,3,Slow-Moving
+"Contoso Air conditioner 6000BTU E0180 White",11,3,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1500 White",11,4,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1520 Brown",11,5,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1520 Silver",11,5,Slow-Moving
+"Contoso Washer & Dryer 25.5in M255 White",11,3,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse X205 Blue",11,6,Slow-Moving
+"Litware Chandelier M6015 Blue",11,5,Slow-Moving
+"Litware Chandelier M8015 Black",11,4,Slow-Moving
+"Litware Home Theater System 4.1 Channel M413 Black",11,3,Slow-Moving
+"Litware Home Theater System 4.1 Channel M413 Brown",11,3,Slow-Moving
+"Litware Home Theater System 5.1 Channel M510 Brown",11,6,Slow-Moving
+"Litware Home Theater System 5.1 Channel M515 Brown",11,4,Slow-Moving
+"Litware Home Theater System 5.1 Channel M516 Brown",11,4,Slow-Moving
+"Litware Mobile Fan External USB Cooling Fan E601 Silver",11,4,Slow-Moving
+"Litware Mobile Fan External USB Cooling Fan E601 White",11,3,Slow-Moving
+"Litware Tower Fan E501 Silver",11,5,Slow-Moving
+"Proseware Air conditioner 6000BTU E180 Silver",11,4,Slow-Moving
+"Proseware Floor Lamp M0215 White",11,4,Slow-Moving
+"Proseware Laser Jet All in one X300 White",11,7,Slow-Moving
+"Proseware Wall Lamp E0315 Black",11,3,Slow-Moving
+"Adventure Works Wall Lamp E2150 White",12,6,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 1 E100 Black",12,4,Slow-Moving
+"Contoso Air conditioner 7000BTU E0260 White",12,5,Slow-Moving
+"Contoso Air conditioner 8000BTU M0320 Blue",12,4,Slow-Moving
+"Contoso Home Theater System 2.1 Channel M1210 White",12,5,Slow-Moving
+"Contoso Notebook Peripheral Kit M69 Grey",12,5,Slow-Moving
+"Contoso Smart Battery M901 Black",12,5,Slow-Moving
+"Contoso Washer & Dryer 15.5in E155 Green",12,3,Slow-Moving
+"Contoso Washer & Dryer 15.5in E155 Red",12,4,Slow-Moving
+"Fabrikam Microwave 1.6CuFt M1250 Red",12,3,Slow-Moving
+"Litware 17'' Oscillating Pedestal Fan M125 Yellow",12,3,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M145 White",12,4,Slow-Moving
+"Litware 20'' Box Fan E401 White",12,5,Slow-Moving
+"Litware 3-Speed Oscillating Blower Fan M115 White",12,4,Slow-Moving
+"Litware Desk Lamp E1030 Grey",12,3,Slow-Moving
+"Litware Desktop Wind Tower Oscillating Fan E1201 Black",12,3,Slow-Moving
+"Litware Mobile Fan External USB Cooling Fan E601 Black",12,2,Slow-Moving
+"Litware Mobile Fan External USB Cooling Fan E601 Pink",12,3,Slow-Moving
+"Litware Refrigerator 1.7CuFt E120 Grey",12,4,Slow-Moving
+"Litware Refrigerator 3.2CuFt E160 White",12,7,Slow-Moving
+"Litware USB Foam Fan E1301 White",12,3,Slow-Moving
+"Litware Washer & Dryer 25.5in M350 White",12,6,Slow-Moving
+"Litware Washer & Dryer 27in L420 Blue",12,6,Slow-Moving
+"Proseware Air conditioner 5200BTU E100 Red",12,3,Slow-Moving
+"Proseware Floor Lamp X0115 Black",12,4,Slow-Moving
+"SV Wireless LAN PCI Network Card Adapter E900 Black",12,6,Slow-Moving
+"WWI Chandelier M815 Blue",12,5,Slow-Moving
+"WWI Desk Lamp E130 White",12,2,Slow-Moving
+"Adventure Works Desk Lamp E1200 Black",13,3,Slow-Moving
+"Contoso Air conditioner 12000BTU M0640 Blue",13,5,Slow-Moving
+"Contoso Air conditioner 12000BTU M0640 Red",13,5,Slow-Moving
+"Contoso Air conditioner 25000BTU L1672 Red",13,6,Slow-Moving
+"Contoso Air conditioner 5200BTU E0100 White",13,4,Slow-Moving
+"Contoso Air conditioner 7000BTU E0260 Red",13,5,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1400 Black",13,3,Slow-Moving
+"Contoso Laptop Keyboard X105 Silver",13,6,Slow-Moving
+"Contoso Lens cap E80 Black",13,4,Slow-Moving
+"Contoso Reserve Pen - Tablet Pen E200 Gold",13,4,Slow-Moving
+"Contoso Washer & Dryer 15.5in E155 Pink",13,6,Slow-Moving
+"Contoso Washer & Dryer 21in E210 Silver",13,4,Slow-Moving
+"Contoso Washer & Dryer 25.5in M255 Blue",13,4,Slow-Moving
+"Litware 14" High Velocity Floor Fan E801 Pink",13,8,Slow-Moving
+"Litware 20'' Weather-Shield Performance Box Fan E1601 Orange",13,4,Slow-Moving
+"Litware Home Theater System 2.1 Channel E210 Black",13,3,Slow-Moving
+"Litware Home Theater System 2.1 Channel E210 Brown",13,4,Slow-Moving
+"Litware Home Theater System 4.1 Channel M410 Silver",13,3,Slow-Moving
+"Litware Home Theater System 5.1 Channel M511 Silver",13,6,Slow-Moving
+"Litware Home Theater System 7.1 Channel M710 Black",13,2,Slow-Moving
+"Litware Refrigerator 9.7CuFt M560 Red",13,6,Slow-Moving
+"Litware Washer & Dryer 21in E214 Green",13,5,Slow-Moving
+"Litware Washer & Dryer 25.5in M350 Silver",13,5,Slow-Moving
+"NT Washer & Dryer 27in L2700 Blue",13,2,Slow-Moving
+"Proseware Desk Lamp E0130 Silver",13,3,Slow-Moving
+"WWI Desk Lamp E130 Blue",13,4,Slow-Moving
+"WWI Floor Lamp M215 Blue",13,3,Slow-Moving
+"Adventure Works Chandelier M6150 Blue",14,4,Slow-Moving
+"Adventure Works Chandelier M8150 Grey",14,4,Slow-Moving
+"Adventure Works Coffee Maker 4C E080 White",14,5,Slow-Moving
+"Adventure Works Desk Lamp E1300 White",14,4,Slow-Moving
+"Contoso Bluetooth Notebook Mouse E70 White",14,8,Slow-Moving
+"Contoso Connectivity Starter Kit Smart Buy M680 Black",14,5,Slow-Moving
+"Contoso Digital camera accessory kit M200 White",14,5,Slow-Moving
+"Contoso Dual USB Power Adapter - power adapter E300 Grey",14,5,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1510 Brown",14,6,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1540 Black",14,5,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1540 Silver",14,6,Slow-Moving
+"Contoso Home Theater System 7.1 Channel M1700 White",14,3,Slow-Moving
+"Contoso SLR Camera 35" X358 Grey",14,6,Slow-Moving
+"Contoso USB Data Link-direct connect adapter E600 Black",14,5,Slow-Moving
+"Contoso USB Optical Mouse E200 Gold",14,6,Slow-Moving
+"Contoso Washer & Dryer 27in L270 Green",14,6,Slow-Moving
+"Fabrikam Refrigerator 4.6CuFt E2800 Brown",14,4,Slow-Moving
+"Litware 14" High Velocity Floor Fan E801 Silver",14,6,Slow-Moving
+"Litware 16" White Oscillating Stand Fan E701 Black",14,6,Slow-Moving
+"Litware 18'' Adjustable Oscillating Pedestal Fan E301 Silver",14,4,Slow-Moving
+"Litware 3-Speed Oscillating High-Performance Fan E201 Silver",14,4,Slow-Moving
+"Litware 80mm Dual Ball Bearing Case Fan E1001 Pink",14,4,Slow-Moving
+"Litware Desk Lamp E1020 Grey",14,3,Slow-Moving
+"Litware Home Theater System 5.1 Channel M512 Brown",14,5,Slow-Moving
+"Litware Refrigerator 1.7CuFt E120 White",14,5,Slow-Moving
+"Litware Refrigerator 3.2CuFt E160 Green",14,5,Slow-Moving
+"NT Washer & Dryer 15.5in E1550 Silver",14,5,Slow-Moving
+"Proseware Air conditioner 10000BTU M490 Silver",14,4,Slow-Moving
+"Proseware Air conditioner 7000BTU E260 Grey",14,5,Slow-Moving
+"Proseware Chandelier M0615 Blue",14,5,Slow-Moving
+"SV 160GB USB2.0 Portable Hard Disk M65 Black",14,3,Slow-Moving
+"SV 160GB USB2.0 Portable Hard Disk M65 Grey",14,4,Slow-Moving
+"SV Car Video TFT6.2W E6281 Silver",14,6,Slow-Moving
+"SV Car Video TFT7 M7000 Silver",14,6,Slow-Moving
+"A. Datum Slim Digital Camera M180 Orange",15,7,Slow-Moving
+"Adventure Works Desk Lamp E1300 Blue",15,5,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 2 E200 Grey",15,7,Slow-Moving
+"Contoso Air conditioner 10000BTU M0490 Silver",15,8,Slow-Moving
+"Contoso Air conditioner 5200BTU E0100 Grey",15,6,Slow-Moving
+"Contoso Education Supplies Bundle E200 Grey",15,6,Slow-Moving
+"Contoso Home Theater System 2.1 Channel M1210 Black",15,6,Slow-Moving
+"Contoso Mouse Lock Bundle E200 White",15,8,Slow-Moving
+"Contoso Reserve Pen - Tablet Pen E200 Grey",15,6,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse X205 Silver",15,4,Slow-Moving
+"Fabrikam Coffee Maker Auto 5C E090 White",15,7,Slow-Moving
+"Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 Black",15,5,Slow-Moving
+"Fabrikam Refrigerator 19CuFt M7600 White",15,7,Slow-Moving
+"Litware 120mm Blue LED Case Fan E901 blue",15,5,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M135 Blue",15,4,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M135 Pink",15,4,Slow-Moving
+"Litware 3-Speed Oscillating Blower Fan M115 Black",15,5,Slow-Moving
+"Litware Chandelier M6015 Grey",15,4,Slow-Moving
+"Litware Home Theater System 5.1 Channel M513 Silver",15,4,Slow-Moving
+"Litware Home Theater System 7.1 Channel X711 Brown",15,5,Slow-Moving
+"Litware Refrigerator 24.7CuFt X980 Blue",15,7,Slow-Moving
+"Litware Refrigerator 3.2CuFt E160 Grey",15,6,Slow-Moving
+"Litware Refrigerator 9.7CuFt M560 Blue",15,5,Slow-Moving
+"Litware USB Durable Desk Soft Fan E1401 Blue",15,6,Slow-Moving
+"NT Washer & Dryer 21in E2100 Green",15,3,Slow-Moving
+"Proseware Air conditioner 6000BTU E180 White",15,4,Slow-Moving
+"Proseware Air conditioner 7000BTU E260 Red",15,3,Slow-Moving
+"Proseware Chandelier M0615 White",15,3,Slow-Moving
+"Proseware Floor Lamp M0215 Silver",15,5,Slow-Moving
+"SV 160GB USB2.0 Portable Hard Disk M65 White",15,5,Slow-Moving
+"SV Car Video TFT6.2W E6280 Black",15,6,Slow-Moving
+"SV Car Video TFT7 M7001 Black",15,6,Slow-Moving
+"SV PCI Network Adapter E904 Silver",15,5,Slow-Moving
+"WWI Floor Lamp X115 Silver",15,4,Slow-Moving
+"WWI Wall Lamp E215 Blue",15,5,Slow-Moving
+"Adventure Works Desk Lamp E1200 White",16,4,Slow-Moving
+"Adventure Works Floor Lamp X1150 Silver",16,4,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 2 E200 White",16,6,Slow-Moving
+"Contoso Air conditioner 10000BTU M0490 Grey",16,7,Slow-Moving
+"Contoso Air conditioner 10000BTU M0490 Red",16,6,Slow-Moving
+"Contoso Air conditioner 5200BTU E0100 Red",16,4,Slow-Moving
+"Contoso Air conditioner 8000BTU M0320 Red",16,5,Slow-Moving
+"Contoso Dual USB Power Adapter - power adapter E300 White",16,8,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1510 Silver",16,2,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1540 White",16,3,Slow-Moving
+"Contoso Multimedia Speakers M25 Black",16,7,Slow-Moving
+"Contoso Washer & Dryer 21in E210 Pink",16,3,Slow-Moving
+"Contoso Washer & Dryer 27in L270 Pink",16,5,Slow-Moving
+"Fabrikam Refrigerator 19CuFt M7600 Blue",16,8,Slow-Moving
+"Litware 120mm Blue LED Case Fan E901 White",16,5,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M145 Yellow",16,4,Slow-Moving
+"Litware Home Theater System 2.1 Channel E211 Silver",16,3,Slow-Moving
+"Litware Home Theater System 4.1 Channel M412 Silver",16,8,Slow-Moving
+"Litware Refrigerator 4.6CuFt E280 Silver",16,5,Slow-Moving
+"Litware USB Durable Desk Soft Fan E1401 White",16,6,Slow-Moving
+"NT Washer & Dryer 25.5in M2550 Green",16,5,Slow-Moving
+"Proseware Air conditioner 10000BTU M490 White",16,7,Slow-Moving
+"Proseware Ink Jet Instant PDF Sheet-Fed Scanner M300 Grey",16,6,Slow-Moving
+"SV 4GB Laptop Memory M65 Yellow",16,6,Slow-Moving
+"SV Car Video LCD7W M7080 Silver",16,6,Slow-Moving
+"SV Car Video TFT6.2W E6280 Silver",16,9,Slow-Moving
+"SV Keyboard E10 Grey",16,7,Slow-Moving
+"SV USB Data Cable E600 Silver",16,5,Slow-Moving
+"Adventure Works Coffee Maker Super-Auto 12C X125 Silver",17,5,Slow-Moving
+"Contoso Air conditioner 25000BTU L1672 White",17,8,Slow-Moving
+"Contoso Air conditioner 8000BTU M0320 Grey",17,7,Slow-Moving
+"Contoso Bluetooth Notebook Mouse E70 Silver",17,6,Slow-Moving
+"Contoso Home Theater System 2.1 Channel M1210 Brown",17,4,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1500 Brown",17,8,Slow-Moving
+"Contoso Optical USB Mouse M45 Black",17,7,Slow-Moving
+"Contoso Power Inverter - DC to AC power inverter E900 Black",17,8,Slow-Moving
+"Contoso Washer & Dryer 15.5in E155 Silver",17,3,Slow-Moving
+"Contoso Washer & Dryer 15.5in E155 White",17,5,Slow-Moving
+"Contoso Washer & Dryer 21in E210 Red",17,5,Slow-Moving
+"Contoso Washer & Dryer 27in L270 Red",17,6,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse X205 Black",17,5,Slow-Moving
+"Fabrikam Business Videographer 1/3" 8.5mm M380 Blue",17,7,Slow-Moving
+"Fabrikam SLR Camera 35" M358 Green",17,3,Slow-Moving
+"Litware 16" White Oscillating Stand Fan E701 Grey",17,3,Slow-Moving
+"Litware 80mm Dual Ball Bearing Case Fan E1001 Black",17,5,Slow-Moving
+"Litware Home Theater System 5.1 Channel M515 Black",17,6,Slow-Moving
+"Litware Refrigerator 1.7CuFt E120 Brown",17,7,Slow-Moving
+"Litware Refrigerator 19CuFt M760 Blue",17,5,Slow-Moving
+"Litware Refrigerator 4.6CuFt E280 Grey",17,5,Slow-Moving
+"Litware Washer & Dryer 21in E214 Silver",17,6,Slow-Moving
+"Litware Washer & Dryer 24in M260 Blue",17,4,Slow-Moving
+"NT Washer & Dryer 24in M2400 Green",17,4,Slow-Moving
+"Proseware Air conditioner 6000BTU E180 Grey",17,4,Slow-Moving
+"Proseware Fax phone E100 Grey",17,10,Slow-Moving
+"SV Car Video AM/FM E1000 Silver",17,9,Slow-Moving
+"SV Car Video AM/FM E1001 Silver",17,5,Slow-Moving
+"SV Car Video TFT6.2W E6281 Brown",17,8,Slow-Moving
+"SV Keyboard E90 Silver",17,5,Slow-Moving
+"SV PCI Network Adapter E903 Silver",17,9,Slow-Moving
+"SV Rechargeable Bluetooth Notebook Mouse E80 Grey",17,7,Slow-Moving
+"WWI Chandelier M615 Blue",17,5,Slow-Moving
+"WWI Floor Lamp M215 Silver",17,5,Slow-Moving
+"WWI Wall Lamp E315 Blue",17,5,Slow-Moving
+"Adventure Works Coffee Maker Super-Auto 12C X125 Black",18,7,Slow-Moving
+"Contoso Battery charger - bike E200 White",18,7,Slow-Moving
+"Contoso Bluetooth Notebook Mouse X305 Silver",18,6,Slow-Moving
+"Contoso Coffee Maker Super-Auto 12C X1250 Grey",18,6,Slow-Moving
+"Contoso Education Essentials Bundle M300 White",18,6,Slow-Moving
+"Contoso Home Theater System 2.1 Channel E1200 Silver",18,5,Slow-Moving
+"Contoso Home Theater System 2.1 Channel M1230 Black",18,4,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1410 Black",18,5,Slow-Moving
+"Contoso Multimedia Speakers M25 Blue",18,6,Slow-Moving
+"Contoso Smart Battery M901 Grey",18,6,Slow-Moving
+"Contoso Washer & Dryer 27in L270 Blue",18,7,Slow-Moving
+"Fabrikam Budget Moviemaker 1/3'' 8.5mm E200 Black",18,9,Slow-Moving
+"Fabrikam Budget Moviemaker 1/3'' 8.5mm E200 Grey",18,11,Slow-Moving
+"Fabrikam Coffee Maker Super-Auto 12C X125 Black",18,7,Slow-Moving
+"Fabrikam Refrigerator 3.2CuFt E1600 Grey",18,8,Slow-Moving
+"Fabrikam Refrigerator 9.7CuFt M5600 Brown",18,5,Slow-Moving
+"Litware 180 CFM Vertical Discharge Fan X450 Red",18,8,Slow-Moving
+"Litware 80mm Dual Ball Bearing Case Fan E1001 White",18,6,Slow-Moving
+"Litware 80mm LED Dual PCI Slot Fan E1501 White",18,4,Slow-Moving
+"Litware Desktop Wind Tower Oscillating Fan E1201 White",18,4,Slow-Moving
+"Litware Home Theater System 4.1 Channel M412 Brown",18,6,Slow-Moving
+"Litware Home Theater System 5.1 Channel M513 Black",18,6,Slow-Moving
+"Litware Home Theater System 5.1 Channel M514 Brown",18,6,Slow-Moving
+"Litware Home Theater System 7.1 Channel X711 Silver",18,9,Slow-Moving
+"Litware Refrigerator 4.6CuFt E280 Brown",18,5,Slow-Moving
+"Litware Refrigerator 9.7CuFt M560 Grey",18,7,Slow-Moving
+"Litware Tower Fan E501 Black",18,6,Slow-Moving
+"Litware Tower Fan E501 White",18,5,Slow-Moving
+"Proseware Air conditioner 8000BTU M320 Grey",18,6,Slow-Moving
+"Proseware Floor Lamp M0215 Black",18,4,Slow-Moving
+"Proseware Photo Ink Jet Printer M100 White",18,7,Slow-Moving
+"SV 500GB USB 2.0 Portable External Hard Drive X405 Pink",18,6,Slow-Moving
+"SV Car Video LCD7W M7080 Brown",18,5,Slow-Moving
+"SV PCI Network Adapter E905 Silver",18,7,Slow-Moving
+"SV USB Sync Charge Cable E700 Blue",18,9,Slow-Moving
+"WWI Floor Lamp M215 Black",18,6,Slow-Moving
+"A. Datum Compact Digital Camera M200 Grey",19,8,Slow-Moving
+"A. Datum SLR Camera M140 Pink",19,8,Slow-Moving
+"Contoso 90W AC/DC Power Adapter E300 Grey",19,3,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 2 E200 Black",19,8,Slow-Moving
+"Contoso Air conditioner 25000BTU L1672 Grey",19,8,Slow-Moving
+"Contoso Air conditioner 7000BTU E0260 Blue",19,6,Slow-Moving
+"Contoso Air conditioner 7000BTU E0260 Grey",19,3,Slow-Moving
+"Contoso Air conditioner 7000BTU E0260 Silver",19,5,Slow-Moving
+"Contoso Coffee Maker 5C E0900 Grey",19,4,Slow-Moving
+"Contoso Coffee Maker Auto 10C M1000 Grey",19,6,Slow-Moving
+"Contoso Desktop Alternative Bundle E200 White",19,6,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1420 Brown",19,6,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1420 Silver",19,5,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1420 White",19,5,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1510 White",19,6,Slow-Moving
+"Contoso Laptop Keyboard X105 Brown",19,4,Slow-Moving
+"Contoso Notebook Peripheral Kit M69 White",19,6,Slow-Moving
+"Contoso Optical Wheel OEM PS/2 Mouse E60 White",19,7,Slow-Moving
+"Contoso Projector 720p M620 Silver",19,10,Slow-Moving
+"Contoso USB Wave Multi-media Keyboard E280 Black",19,6,Slow-Moving
+"Contoso Wireless Laser Mouse M55 Silver",19,6,Slow-Moving
+"Fabrikam Coffee Maker Auto 5C E090 Gold",19,9,Slow-Moving
+"Litware Home Theater System 5.1 Channel M515 Silver",19,5,Slow-Moving
+"Litware Home Theater System 5.1 Channel M516 Silver",19,5,Slow-Moving
+"Litware Refrigerator 1.7CuFt E120 Silver",19,9,Slow-Moving
+"Litware Washer & Dryer 15.5in E150 Blue",19,6,Slow-Moving
+"Litware Washer & Dryer 24in M260 Green",19,6,Slow-Moving
+"NT Washer & Dryer 24in M2400 Blue",19,5,Slow-Moving
+"NT Washer & Dryer 27in L2700 Green",19,3,Slow-Moving
+"Proseware Desk Lamp E0120 White",19,3,Slow-Moving
+"Proseware Projector 480p LCD12 Silver",19,5,Slow-Moving
+"Proseware Wall Lamp E0315 White",19,5,Slow-Moving
+"SV USB Sync Charge Cable E700 Black",19,6,Slow-Moving
+"WWI Desk Lamp E120 White",19,4,Slow-Moving
+"Adventure Works Coffee Maker Auto 10C M100 White",20,7,Slow-Moving
+"Contoso Air conditioner 6000BTU E0180 Red",20,5,Slow-Moving
+"Contoso Bluetooth Notebook Mouse E70 Black",20,4,Slow-Moving
+"Contoso Car power adapter M90 Black",20,6,Slow-Moving
+"Contoso Coffee Maker Auto 10C M1000 Black",20,6,Slow-Moving
+"Contoso Coffee Maker Auto 5C E0900 Black",20,7,Slow-Moving
+"Contoso Coffee Maker Auto 5C E0900 Silver",20,6,Slow-Moving
+"Contoso Connectivity Starter Kit Smart Buy M680 Grey",20,8,Slow-Moving
+"Contoso Digital camera accessory kit M200 Grey",20,7,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1410 White",20,6,Slow-Moving
+"Contoso Home Theater System 7.1 Channel M1700 Black",20,6,Slow-Moving
+"Contoso SLR Camera M145 Blue",20,8,Slow-Moving
+"Contoso Ultraportable Neoprene Sleeve E30 Pink",20,8,Slow-Moving
+"Contoso Washer & Dryer 21in E210 Blue",20,10,Slow-Moving
+"Contoso Washer & Dryer 25.5in M255 Red",20,6,Slow-Moving
+"Contoso Washer & Dryer 25.5in M255 Silver",20,4,Slow-Moving
+"Fabrikam Coffee Maker 12C M100 Grey",20,7,Slow-Moving
+"Fabrikam Coffee Maker Auto 10C M100 Black",20,9,Slow-Moving
+"Fabrikam Coffee Maker Auto 10C M100 Silver",20,7,Slow-Moving
+"Fabrikam Independent Filmmaker 2/3" 17mm X100 Blue",20,4,Slow-Moving
+"Fabrikam Refrigerator 1.7CuFt E1200 White",20,6,Slow-Moving
+"Fabrikam SLR Camera 35" X358 Orange",20,10,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M135 White",20,4,Slow-Moving
+"Litware Home Theater System 5.1 Channel M512 Silver",20,4,Slow-Moving
+"Litware Refrigerator 4.6CuFt E280 Orange",20,12,Slow-Moving
+"Litware Refrigerator 9.7CuFt M560 Green",20,9,Slow-Moving
+"Litware USB Durable Desk Soft Fan E1401 Red",20,7,Slow-Moving
+"Litware Wall Lamp E2015 White",20,6,Slow-Moving
+"Litware Washer & Dryer 21in E214 Blue",20,6,Slow-Moving
+"Proseware Air conditioner 10000BTU M490 Grey",20,5,Slow-Moving
+"Proseware Floor Lamp M0215 Blue",20,6,Slow-Moving
+"Proseware Laser Fax Printer M250 White",20,8,Slow-Moving
+"Proseware Professional Quality Plain-Paper Fax and Copier X100 Green",20,7,Slow-Moving
+"SV Car Video LCD7W M7082 Silver",20,8,Slow-Moving
+"SV Car Video LCD9.2W X9281 Black",20,9,Slow-Moving
+"SV Car Video TFT7 M7001 Silver",20,7,Slow-Moving
+"A. Datum Full Frame Digital Camera X300 Silver Grey",21,10,Slow-Moving
+"Contoso Battery charger - bike E200 Grey",21,10,Slow-Moving
+"Contoso Home Theater System 2.1 Channel M1230 Silver",21,7,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1410 Silver",21,4,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1500 Silver",21,6,Slow-Moving
+"Contoso Laptop Starter Bundle M200 Black",21,6,Slow-Moving
+"Contoso Projector 480p M481 Silver",21,9,Slow-Moving
+"Contoso Washer & Dryer 24in M240 Green",21,5,Slow-Moving
+"Contoso Wireless Laser Mouse E50 Black",21,6,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse X205 White",21,8,Slow-Moving
+"Fabrikam Independent Filmmaker 1/2'' 3mm X300 Grey",21,6,Slow-Moving
+"Fabrikam Microwave 2.2CuFt M1250 Grey",21,10,Slow-Moving
+"Fabrikam Refrigerator 1.7CuFt E1200 Blue",21,7,Slow-Moving
+"Fabrikam Refrigerator 19CuFt M7600 Brown",21,6,Slow-Moving
+"Fabrikam Refrigerator 3.2CuFt E1600 Orange",21,7,Slow-Moving
+"Fabrikam SLR Camera 35" M358 Gold",21,6,Slow-Moving
+"Fabrikam Social Videographer 2/3'' 17mm E100 Black",21,6,Slow-Moving
+"Litware Home Theater System 5.1 Channel M510 Silver",21,6,Slow-Moving
+"Litware Refrigerator 1.7CuFt E120 Green",21,7,Slow-Moving
+"Litware Refrigerator 3.2CuFt E160 Orange",21,10,Slow-Moving
+"NT Washer & Dryer 27in L2700 White",21,5,Slow-Moving
+"Proseware Laser Fax Printer M250 Green",21,8,Slow-Moving
+"SV 500GB USB 2.0 Portable External Hard Drive X405 Black",21,7,Slow-Moving
+"SV 500GB USB 2.0 Portable External Hard Drive X405 Blue",21,7,Slow-Moving
+"SV 80GB USB2.0 Portable Hard Disk E500 Blue",21,9,Slow-Moving
+"SV 80GB USB2.0 Portable Hard Disk E500 Red",21,6,Slow-Moving
+"SV Car Video LCD7W M7082 Black",21,7,Slow-Moving
+"A. Datum Point Shoot Digital Camera M500 Silver",22,10,Slow-Moving
+"A. Datum Super-zoom Digital Camera X300 Black",22,6,Slow-Moving
+"Adventure Works Coffee Maker 12C M100 Black",22,10,Slow-Moving
+"Contoso 4GB Portable MP3 Player M450 Yellow",22,9,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 1 E100 White",22,6,Slow-Moving
+"Contoso Bright Light battery E20 White",22,9,Slow-Moving
+"Contoso Mouse Lock Bundle E200 Black",22,8,Slow-Moving
+"Contoso Washer & Dryer 25.5in M255 Green",22,7,Slow-Moving
+"Contoso Wireless Laser Mouse M55 Black",22,8,Slow-Moving
+"Fabrikam Coffee Maker Super-Auto 12C X125 Grey",22,8,Slow-Moving
+"Fabrikam Refrigerator 3.2CuFt E1600 White",22,6,Slow-Moving
+"Fabrikam Refrigerator 9.7CuFt M5600 Grey",22,7,Slow-Moving
+"Fabrikam Refrigerator 9.7CuFt M5600 Orange",22,8,Slow-Moving
+"Fabrikam Refrigerator 9.7CuFt M5600 White",22,9,Slow-Moving
+"Litware 18'' Adjustable Oscillating Pedestal Fan E301 Black",22,6,Slow-Moving
+"Litware 20'' Box Fan E401 Black",22,4,Slow-Moving
+"Litware 20'' Box Fan E401 Blue",22,9,Slow-Moving
+"Litware 3-Speed Oscillating High-Performance Fan E201 White",22,7,Slow-Moving
+"Litware Refrigerator 3.2CuFt E160 Brown",22,7,Slow-Moving
+"Litware USB Foam Fan E1301 Pink",22,10,Slow-Moving
+"Litware Washer & Dryer 15.5in E150 Silver",22,8,Slow-Moving
+"Litware Washer & Dryer 15.5in E150 White",22,7,Slow-Moving
+"SV Car Video LCD7 M7003 Silver",22,6,Slow-Moving
+"SV Car Video TFT6.2W E6282 Black",22,9,Slow-Moving
+"A. Datum Compact Digital Camera M200 Azure",23,11,Slow-Moving
+"A. Datum Super-zoom Digital Camera X300 Green",23,11,Slow-Moving
+"Adventure Works Floor Lamp M2150 Blue",23,5,Slow-Moving
+"Contoso Battery charger - bike E200 Black",23,7,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1410 Brown",23,9,Slow-Moving
+"Contoso Laptop Cooling Hub notebook fan with 4 ports USB hub E80 White",23,11,Slow-Moving
+"Contoso Laptop Keyboard X105 Black",23,9,Slow-Moving
+"Contoso Ultraportable Neoprene Sleeve E30 Green",23,8,Slow-Moving
+"Contoso Washer & Dryer 24in M240 Pink",23,5,Slow-Moving
+"Fabrikam Coffee Maker 4C E080 Grey",23,9,Slow-Moving
+"Fabrikam Refrigerator 19CuFt M7600 Grey",23,7,Slow-Moving
+"Fabrikam Refrigerator 24.7CuFt X9800 Brown",23,7,Slow-Moving
+"Fabrikam Refrigerator 4.6CuFt E2800 Silver",23,9,Slow-Moving
+"Fabrikam SLR Camera X150 Orange",23,11,Slow-Moving
+"Fabrikam Trendsetter 1/3'' 8.5mm X200 White",23,7,Slow-Moving
+"Litware 14" High Velocity Floor Fan E801 White",23,8,Slow-Moving
+"Proseware Desk Jet All-in-One Printer, Scanner, Copier M350 Grey",23,12,Slow-Moving
+"SV 512MB Laptop memory E800 Silver",23,8,Slow-Moving
+"SV 80GB USB2.0 Portable Hard Disk E500 Silver",23,7,Slow-Moving
+"SV USB Data Cable E600 Grey",23,6,Slow-Moving
+"A. Datum Compact Digital Camera M200 Black",24,9,Slow-Moving
+"A. Datum SLR Camera 35" M358 Black",24,11,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 3 E300 White",24,11,Slow-Moving
+"Contoso Air conditioner 5200BTU E0100 Silver",24,7,Slow-Moving
+"Contoso Bright Light battery E20 Pink",24,7,Slow-Moving
+"Contoso Car power adapter M90 White",24,10,Slow-Moving
+"Contoso Connectivity Starter Kit Smart Buy M680 White",24,8,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1530 Brown",24,7,Slow-Moving
+"Contoso Leather Case - case for digital photo camera X20 White",24,9,Slow-Moving
+"Contoso Microwave 1.6CuFt M0125 Silver",24,9,Slow-Moving
+"Contoso Notebook Peripheral Kit M69 Black",24,7,Slow-Moving
+"Contoso Optical Wheel OEM PS/2 Mouse E60 Grey",24,5,Slow-Moving
+"Contoso USB 2.0 Dock Station docking station M800 Black",24,8,Slow-Moving
+"Contoso USB 2.0 Dock Station docking station M800 Grey",24,7,Slow-Moving
+"Fabrikam Coffee Maker Auto 10C M100 White",24,7,Slow-Moving
+"Fabrikam Microwave 1.6CuFt M1250 Grey",24,10,Slow-Moving
+"Fabrikam Refrigerator 19CuFt M7600 Orange",24,9,Slow-Moving
+"Fabrikam SLR Camera X147 Silver",24,9,Slow-Moving
+"Fabrikam Social Videographer 1/2" 3mm E300 Orange",24,9,Slow-Moving
+"Fabrikam Trendsetter 1/2'' 3mm X300 Black",24,12,Slow-Moving
+"Litware 17'' Oscillating Pedestal Fan M125 Blue",24,7,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M135 Yellow",24,7,Slow-Moving
+"Litware Desktop Wind Tower Oscillating Fan E1201 Brown",24,5,Slow-Moving
+"Litware Home Theater System 2.1 Channel E211 Black",24,5,Slow-Moving
+"Litware Microwave 0.8CuFt E080 Black",24,11,Slow-Moving
+"Litware Refrigerator 24.7CuFt X980 Brown",24,7,Slow-Moving
+"Litware Refrigerator 24.7CuFt X980 Grey",24,6,Slow-Moving
+"NT Washer & Dryer 27in L2700 Silver",24,7,Slow-Moving
+"Proseware Chandelier M0815 Blue",24,5,Slow-Moving
+"SV 40GB USB2.0 Portable Hard Disk E400 Yellow",24,7,Slow-Moving
+"SV USB Sync Charge Cable E700 White",24,8,Slow-Moving
+"SV Wireless LAN PCI Network Card Adapter E902 Black",24,7,Slow-Moving
+"A. Datum Point n' Shoot Digital Camera M500 Grey",25,11,Slow-Moving
+"A. Datum SLR-like Digital Camera M400 Green",25,13,Slow-Moving
+"Adventure Works Coffee Maker Auto 10C M100 Black",25,9,Slow-Moving
+"Adventure Works Coffee Maker Auto 10C M100 Grey",25,11,Slow-Moving
+"Contoso Bright Light battery E20 blue",25,7,Slow-Moving
+"Contoso Coffee Maker Super-Auto 12C X1250 Silver",25,9,Slow-Moving
+"Contoso Dual USB Power Adapter - power adapter E300 Black",25,6,Slow-Moving
+"Contoso Home Theater System 4.1 Channel M1420 Black",25,4,Slow-Moving
+"Contoso Laptop Starter Bundle M200 Grey",25,8,Slow-Moving
+"Contoso Power Inverter - DC to AC power inverter E900 Grey",25,8,Slow-Moving
+"Contoso Rechargeable Battery E100 Grey",25,5,Slow-Moving
+"Contoso Screen 113in M251 Black",25,9,Slow-Moving
+"Contoso SLR Camera 35" M358 Grey",25,7,Slow-Moving
+"Contoso USB Wave Multi-media Keyboard E280 Blue",25,8,Slow-Moving
+"Contoso USB Wave Multi-media Keyboard E280 White",25,9,Slow-Moving
+"Contoso Wireless Laser Mouse E50 White",25,7,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse M35 Silver",25,10,Slow-Moving
+"Fabrikam Home and Vacation Moviemaker 1'' 25mm M400 White",25,8,Slow-Moving
+"Fabrikam Independent Filmmaker 1/3" 8.5mm X200 Blue",25,10,Slow-Moving
+"Fabrikam Refrigerator 1.7CuFt E1200 Silver",25,10,Slow-Moving
+"Fabrikam Refrigerator 3.2CuFt E1600 Blue",25,9,Slow-Moving
+"Fabrikam Refrigerator 4.6CuFt E2800 Green",25,9,Slow-Moving
+"Fabrikam Refrigerator 9.7CuFt M5600 Blue",25,8,Slow-Moving
+"Litware 3-Speed Oscillating Blower Fan M115 Silver",25,7,Slow-Moving
+"Litware 92mm DBB Case Fan E1101 Black",25,7,Slow-Moving
+"Litware Floor Lamp X1015 Blue",25,5,Slow-Moving
+"Litware Refrigerator 19CuFt M760 Green",25,8,Slow-Moving
+"Litware Refrigerator 4.6CuFt E280 Blue",25,11,Slow-Moving
+"Litware USB Foam Fan E1301 Black",25,8,Slow-Moving
+"Proseware Air conditioner 10000BTU M490 Red",25,9,Slow-Moving
+"Proseware Air conditioner 12000BTU M640 Silver",25,9,Slow-Moving
+"Proseware Screen 106in M1609 White",25,10,Slow-Moving
+"SV 2GB Laptop memory E800 Black",25,8,Slow-Moving
+"SV 40GB USB2.0 Portable Hard Disk E400 Silver",25,8,Slow-Moving
+"SV 512MB Laptop memory E800 Black",25,11,Slow-Moving
+"SV Car Video TFT7 M7002 Brown",25,8,Slow-Moving
+"SV Keyboard E10 Black",25,9,Slow-Moving
+"A. Datum Consumer Digital Camera M300 Pink",26,7,Slow-Moving
+"A. Datum Rangefinder Digital Camera X200 Black",26,12,Slow-Moving
+"Adventure Works Coffee Maker 5C E090 Silver",26,9,Slow-Moving
+"Adventure Works Wall Lamp E2150 Silver",26,6,Slow-Moving
+"Contoso 90W AC/DC Power Adapter E300 Black",26,6,Slow-Moving
+"Contoso Cables To Go USB 2.0 Hard Drive Enclosure E920 Grey",26,8,Slow-Moving
+"Contoso Home Theater System 5.1 Channel M1520 White",26,7,Slow-Moving
+"Contoso Home/Office Laptop Power Adapter E300 White",26,9,Slow-Moving
+"Contoso Laptop Cooling Hub notebook fan with 4 ports USB hub M200 Gold",26,8,Slow-Moving
+"Contoso Optical USB Mouse M45 White",26,9,Slow-Moving
+"Contoso Power Inverter - DC to AC power inverter E900 White",26,7,Slow-Moving
+"Contoso Rechargeable Battery E100 Black",26,8,Slow-Moving
+"Contoso SLR Camera 35" X358 Pink",26,13,Slow-Moving
+"Contoso USB Optical Mouse E200 Grey",26,7,Slow-Moving
+"Fabrikam Home and Vacation Moviemaker 1" 25mm M400 Blue",26,11,Slow-Moving
+"Fabrikam Refrigerator 4.6CuFt E2800 Grey",26,10,Slow-Moving
+"Fabrikam Social Videographer 1/2" 3mm E300 Blue",26,10,Slow-Moving
+"Litware Refrigerator 1.7CuFt E120 Blue",26,9,Slow-Moving
+"Proseware Air conditioner 25000BTU L167 Grey",26,7,Slow-Moving
+"Proseware Color Ink Jet Fax, Copier, Phone M250 Grey",26,10,Slow-Moving
+"Proseware Ink Jet Fax Machine E100 Grey",26,7,Slow-Moving
+"Proseware Laser Jet Printer E100 Grey",26,10,Slow-Moving
+"Proseware LCD22W M2001 White",26,12,Slow-Moving
+"SV Car Video LCD9.2W X9281 Silver",26,13,Slow-Moving
+"SV Car Video TFT7 M7002 Black",26,11,Slow-Moving
+"WWI Projector 480p DLP12 White",26,9,Slow-Moving
+"A. Datum Rangefinder Digital Camera X200 Grey",27,13,Slow-Moving
+"A. Datum Slim Digital Camera M180 Silver",27,9,Slow-Moving
+"Adventure Works Coffee Maker Auto 5C E090 Silver",27,10,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 1 E100 Grey",27,9,Slow-Moving
+"Contoso Microwave 1.5CuFt X0110 Black",27,12,Slow-Moving
+"Contoso Reserve Pen - Tablet Pen E200 White",27,9,Slow-Moving
+"Contoso USB Optical Mouse E200 Blue",27,11,Slow-Moving
+"Contoso Wireless Laser Mouse M55 White",27,7,Slow-Moving
+"Fabrikam Microwave 0.8CuFt E0800 White",27,9,Slow-Moving
+"Fabrikam Refrigerator 1.7CuFt E1200 Green",27,6,Slow-Moving
+"Fabrikam Refrigerator 19CuFt M7600 Silver",27,7,Slow-Moving
+"Fabrikam Refrigerator 24.7CuFt X9800 Blue",27,10,Slow-Moving
+"Fabrikam SLR Camera 35" X358 Grey",27,9,Slow-Moving
+"Fabrikam Trendsetter 1'' 25mm X400 Grey",27,10,Slow-Moving
+"Litware Home Theater System 4.1 Channel M410 Black",27,9,Slow-Moving
+"Litware Home Theater System 5.1 Channel M512 Black",27,6,Slow-Moving
+"Litware Home Theater System 7.1 Channel M710 Silver",27,7,Slow-Moving
+"Litware Microwave 2.2CuFt M125 Silver",27,10,Slow-Moving
+"Litware Refrigerator 4.6CuFt E280 Green",27,7,Slow-Moving
+"Litware Washer & Dryer 27in L420 White",27,9,Slow-Moving
+"Proseware 23ppm Laser Printer with Wireless and Wired Network Interfaces M680 White",27,11,Slow-Moving
+"Proseware Air conditioner 25000BTU L167 Silver",27,6,Slow-Moving
+"Proseware Projector 1080p DLP86 Silver",27,9,Slow-Moving
+"SV 500GB USB 2.0 Portable External Hard Drive X405 White",27,11,Slow-Moving
+"SV 80GB USB2.0 Portable Hard Disk E500 Yellow",27,8,Slow-Moving
+"SV Car Video LCD7W M7080 Black",27,10,Slow-Moving
+"SV USB Data Cable E600 Pink",27,9,Slow-Moving
+"SV Wireless LAN PCI Network Card Adapter E901 Black",27,9,Slow-Moving
+"A. Datum SLR-like Digital Camera M400 Orange",28,12,Slow-Moving
+"Adventure Works Coffee Maker Auto 5C E090 Black",28,8,Slow-Moving
+"Contoso ADSL Modem Splitter/Filter X 3 E300 Grey",28,8,Slow-Moving
+"Contoso Air conditioner 12000BTU M0640 Grey",28,8,Slow-Moving
+"Contoso Bluetooth Notebook Mouse X305 White",28,11,Slow-Moving
+"Contoso Cyber Shot Digital Cameras Adapter E306 Pink",28,10,Slow-Moving
+"Contoso Digital Camera Accessory kit M200 Blue",28,9,Slow-Moving
+"Contoso Integrated Business Phone L08 Black",28,11,Slow-Moving
+"Contoso Projector 1080p X980 Black",28,9,Slow-Moving
+"Contoso Rechargeable Battery Pack E310 Silver",28,13,Slow-Moving
+"Contoso SLR Camera 35" M358 Pink",28,6,Slow-Moving
+"Contoso USB Data Link - direct connect adapter E600 White",28,5,Slow-Moving
+"Fabrikam Coffee Maker Auto 10C M100 Grey",28,8,Slow-Moving
+"Fabrikam Coffee Maker Auto 5C E090 Grey",28,8,Slow-Moving
+"Fabrikam Refrigerator 1.7CuFt E1200 Grey",28,12,Slow-Moving
+"Litware Refrigerator 4.6CuFt E280 White",28,7,Slow-Moving
+"Litware USB Durable Desk Soft Fan E1401 Black",28,7,Slow-Moving
+"Proseware All-In-One Photo Printer M200 Grey",28,9,Slow-Moving
+"Proseware LCD22 M2000 Black",28,9,Slow-Moving
+"Proseware Projector 720p LCD56 Black",28,9,Slow-Moving
+"A. Datum All in One Digital Camera M200 Black",29,6,Slow-Moving
+"A. Datum Full Frame Digital Camera X300 Silver",29,10,Slow-Moving
+"A. Datum Super-zoom Digital Camera X300 Orange",29,11,Slow-Moving
+"Adventure Works Coffee Maker 4C E080 Black",29,10,Slow-Moving
+"Adventure Works Laptop15.4W M1548 White",29,12,Slow-Moving
+"Contoso Bluetooth Notebook Mouse E70 Grey",29,6,Slow-Moving
+"Contoso Education Supplies Bundle E200 White",29,8,Slow-Moving
+"Contoso Lens cap E80 White",29,12,Slow-Moving
+"Contoso Microwave 2.2CuFt M0125 Black",29,12,Slow-Moving
+"Fabrikam Refrigerator 3.2CuFt E1600 Brown",29,10,Slow-Moving
+"Fabrikam SLR Camera 35" M358 Black",29,12,Slow-Moving
+"Fabrikam SLR Camera 35" X358 Pink",29,10,Slow-Moving
+"Fabrikam SLR Camera 35" X358 Silver Grey",29,10,Slow-Moving
+"Litware 18'' Oscillating Pedestal Fan M145 Pink",29,8,Slow-Moving
+"Litware 20'' Weather-Shield Performance Box Fan E1601 White",29,4,Slow-Moving
+"Litware Microwave 2.2CuFt M125 Black",29,11,Slow-Moving
+"Litware Refrigerator 19CuFt M760 Silver",29,11,Slow-Moving
+"Litware Refrigerator 24.7CuFt X980 Green",29,7,Slow-Moving
+"Litware USB Foam Fan E1301 Red",29,7,Slow-Moving
+"NT Washer & Dryer 25.5in M2550 White",29,7,Slow-Moving
+"Proseware LCD20W M230 Black",29,10,Slow-Moving
+"Proseware Screen 80in E1010 Silver",29,12,Slow-Moving
+"SV 2GB Laptop memory E800 White",29,9,Slow-Moving
+"SV 4GB Laptop Memory M65 White",29,7,Slow-Moving
+"SV 512MB Laptop memory E800 Yellow",29,9,Slow-Moving
+"SV Car Video LCD9.2W X9281 Brown",29,12,Slow-Moving
+"A. Datum Compact Digital Camera M200 Pink",30,11,Slow-Moving
+"A. Datum SLR Camera 35" M358 Blue",30,12,Slow-Moving
+"A. Datum SLR Camera 35" X358 Orange",30,13,Slow-Moving
+"A. Datum SLR Camera M136 Silver",30,14,Slow-Moving
+"A. Datum Ultra Compact Digital Camera M190 Black",30,12,Slow-Moving
+"A. Datum Ultra Compact Digital Camera M190 Green",30,9,Slow-Moving
+"Contoso Car power adapter M90 Grey",30,13,Slow-Moving
+"Contoso Coffee Maker 4C E0800 Grey",30,7,Slow-Moving
+"Contoso Coffee Maker 4C E0800 White",30,12,Slow-Moving
+"Contoso Education Essentials Bundle M300 Black",30,7,Slow-Moving
+"Contoso Enhanced Capacity Battery M800 Black",30,9,Slow-Moving
+"Contoso Enhanced Capacity Battery M800 White",30,9,Slow-Moving
+"Contoso Home Theater System 2.1 Channel M1230 White",30,8,Slow-Moving
+"Contoso Laptop Cooling Hub notebook fan with 4 ports USB hub E80 Black",30,9,Slow-Moving
+"Contoso Microwave 0.8CuFt E0080 Silver",30,13,Slow-Moving
+"Contoso Microwave 1.0CuFt E0110 White",30,8,Slow-Moving
+"Contoso Microwave 2.2CuFt M0125 Red",30,14,Slow-Moving
+"Contoso Multimedia Speakers M25 Brown",30,12,Slow-Moving
+"Contoso Multimedia Speakers M25 White",30,10,Slow-Moving
+"Contoso Reserve Pen -Tablet Pen E200 Blue",30,9,Slow-Moving
+"Contoso USB Cable M250 Blue",30,12,Slow-Moving
+"Contoso USB Optical Mouse E200 Black",30,8,Slow-Moving
+"Contoso Wireless Laser Mouse E50 Silver",30,7,Slow-Moving
+"Fabrikam Business Videographer 1/2" 3mm M500 Orange",30,12,Slow-Moving
+"Fabrikam Coffee Maker 4C E080 Silver",30,9,Slow-Moving
+"Fabrikam Refrigerator 4.6CuFt E2800 Blue",30,9,Slow-Moving
+"Fabrikam SLR Camera X148 Gold",30,12,Slow-Moving
+"Litware 20'' Weather-Shield Performance Box Fan E1601 Yellow",30,7,Slow-Moving
+"Proseware Color Ink Jet Fax with 5.8 GHz Cordless Handset X250 Grey",30,9,Slow-Moving
+"Proseware Desk Jet All-in-One Printer, Scanner, Copier M350 Green",30,12,Slow-Moving
+"Proseware LCD24W X300 White",30,12,Slow-Moving
+"SV Car Video TFT7 M7000 Black",30,8,Slow-Moving
+"WWI Screen 113in M1610 White",30,9,Slow-Moving
+"A. Datum Advanced Digital Camera M300 Azure",31,11,Slow-Moving
+"A. Datum Bridge Digital Camera M300 Silver",31,9,Slow-Moving
+"A. Datum SLR Camera 35" X358 Pink",31,10,Slow-Moving
+"A. Datum SLR Camera 35" X358 Silver",31,12,Slow-Moving
+"Adventure Works Coffee Maker Auto 5C E090 Grey",31,9,Slow-Moving
+"Adventure Works Laptop15.4W M1548 Silver",31,13,Slow-Moving
+"Contoso 90W AC/DC Power Adapter E300 White",31,10,Slow-Moving
+"Contoso Digital Cameras Lightweight Tripod E316 Black",31,12,Slow-Moving
+"Contoso Education Essentials Bundle M300 Grey",31,10,Slow-Moving
+"Contoso Enhanced Capacity Battery M800 Grey",31,9,Slow-Moving
+"Contoso Home/Office Laptop Power Adapter E300 Black",31,9,Slow-Moving
+"Contoso Leather Case - case for digital photo camera X20 Grey",31,9,Slow-Moving
+"Contoso Mini Battery Charger Kit E320 Silver",31,14,Slow-Moving
+"Contoso Ultraportable Neoprene Sleeve E30 Black",31,9,Slow-Moving
+"Contoso Washer & Dryer 21in E210 White",31,6,Slow-Moving
+"Contoso Wireless Notebook Optical Mouse M35 Black",31,12,Slow-Moving
+"Fabrikam Home and Vacation Moviemaker 2/3'' 17mm M103 White",31,14,Slow-Moving
+"Fabrikam Independent filmmaker 2/3'' 17mm X100 White",31,12,Slow-Moving
+"Fabrikam Microwave 1.6CuFt M1250 Blue",31,16,Slow-Moving
+"Fabrikam Refrigerator 24.7CuFt X9800 Green",31,8,Slow-Moving
+"Fabrikam Refrigerator 9.7CuFt M5600 Silver",31,10,Slow-Moving
+"Fabrikam Trendsetter 1/2'' 3mm X300 Grey",31,11,Slow-Moving
+"Litware Washer & Dryer 27in L420 Green",31,5,Slow-Moving
+"Proseware 23ppm Laser Printer with Wireless and Wired Network Interfaces M680 Grey",31,12,Slow-Moving
+"Proseware Air conditioner 25000BTU L167 White",31,10,Slow-Moving
+"Proseware Laser Jet All in one X300 Black",31,12,Slow-Moving
+"Proseware Professional Quality Plain-Paper Fax and Copier X100 White",31,10,Slow-Moving
+"Proseware Projector 720p DLP56 Silver",31,14,Slow-Moving
+"Proseware Screen 113in X1609 Black",31,12,Slow-Moving
+"SV 2GB Laptop memory E800 Silver",31,13,Slow-Moving
+"SV Car Video LCD7W M7081 Brown",31,10,Slow-Moving
+"SV Car Video LCD9.2W X9280 Silver",31,9,Slow-Moving
+"SV Rechargeable Bluetooth Notebook Mouse E80 White",31,10,Slow-Moving
+"A. Datum Consumer Digital Camera M300 Orange",32,10,Slow-Moving
+"A. Datum Full Frame Digital Camera X300 Green",32,9,Slow-Moving
+"A. Datum SLR Camera X137 Grey",32,13,Slow-Moving
+"A. Datum SLR Camera X142 Orange",32,10,Slow-Moving
+"A. Datum Ultra Compact Digital Camera M190 Pink",32,9,Slow-Moving
+"Adventure Works Coffee Maker 5C E090 White",32,10,Slow-Moving
+"Contoso Coffee Maker 12C M1000 White",32,8,Slow-Moving
+"Contoso Projector 1080p X981 White",32,9,Slow-Moving
+"Contoso Screen 113in M251 Silver",32,11,Slow-Moving
+"Contoso Washer & Dryer 24in M240 Silver",32,8,Slow-Moving
+"Fabrikam Budget Moviemaker 1/3'' 8.5mm E200 White",32,12,Slow-Moving
+"Fabrikam Coffee Maker 12C M100 White",32,13,Slow-Moving
+"Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 White",32,11,Slow-Moving
+"Litware 14" High Velocity Floor Fan E801 Black",32,8,Slow-Moving
+"Litware Refrigerator 1.7CuFt E120 Orange",32,7,Slow-Moving
+"Litware Refrigerator 24.7CuFt X980 Silver",32,9,Slow-Moving
+"Proseware Scan Jet Digital Flat Bed Scanner M300 Black",32,11,Slow-Moving
+"Proseware Screen 125in X1609 Silver",32,14,Slow-Moving
+"SV Car Video TFT6.2W E6281 Black",32,10,Slow-Moving
+"SV Keyboard E90 Black",32,9,Slow-Moving
+"SV USB Data Cable E600 Black",32,10,Slow-Moving
+"A. Datum Advanced Digital Camera M300 Pink",33,11,Slow-Moving
+"A. Datum Full Frame Digital Camera X300 Azure",33,10,Slow-Moving
+"A. Datum SLR Camera 35" M358 Silver Grey",33,13,Slow-Moving
+"Adventure Works Coffee Maker 12C M100 White",33,13,Slow-Moving
+"Adventure Works Coffee Maker 4C E080 Grey",33,10,Slow-Moving
+"Adventure Works Coffee Maker 4C E080 Silver",33,9,Slow-Moving
+"Adventure Works CRT17 E105 Black",33,10,Slow-Moving
+"Contoso Cables To Go USB 2.0 Hard Drive Enclosure E920 Black",33,9,Slow-Moving
+"Contoso Digital Cordless Expansion Handset Phone M900 White",33,13,Slow-Moving
+"Contoso Expandable 2-Handset Cordless Phone System M205 Black",33,16,Slow-Moving
+"Contoso Microwave 2.2CuFt M0126 Grey",33,13,Slow-Moving
+"Contoso Primary Extended Capacity Battery Pack - notebook battery X100 White",33,8,Slow-Moving
+"Contoso Screen 106in M060 White",33,8,Slow-Moving
+"Contoso USB Data Link - direct connect adapter E600 Grey",33,10,Slow-Moving
+"Contoso Wireless Laser Mouse M55 Grey",33,10,Slow-Moving
+"Fabrikam Business Videographer 1" 25mm M600 Blue",33,14,Slow-Moving
+"Fabrikam Coffee Maker 12C M100 Silver",33,13,Slow-Moving
+"Fabrikam Coffee Maker 5C E090 Silver",33,12,Slow-Moving
+"Fabrikam Laptop17W M7080 Black",33,12,Slow-Moving
+"Fabrikam Refrigerator 24.7CuFt X9800 Orange",33,9,Slow-Moving
+"Fabrikam Refrigerator 3.2CuFt E1600 Silver",33,8,Slow-Moving
+"Fabrikam SLR Camera X149 Pink",33,14,Slow-Moving
+"Litware Home Theater System 5.1 Channel M511 Brown",33,7,Slow-Moving
+"Litware Microwave 0.8CuFt E080 Red",33,12,Slow-Moving
+"Litware Microwave 0.9CuFt E090 Black",33,10,Slow-Moving
+"Litware Refrigerator 9.7CuFt M560 White",33,12,Slow-Moving
+"Litware Refrigerator L1200 Orange",33,9,Slow-Moving
+"NT Washer & Dryer 25.5in M2550 Blue",33,11,Slow-Moving
+"Proseware All-In-One Photo Printer M200 Black",33,12,Slow-Moving
+"Proseware High Speed Laser M2000 Black",33,10,Slow-Moving
+"Proseware High-Performance Business-Class Laser Fax X200 Black",33,10,Slow-Moving
+"Proseware Ink Jet All in one M300 Grey",33,12,Slow-Moving
+"Proseware Office Jet Wireless All-in-One Inkjet Printer M600 White",33,10,Slow-Moving
+"Proseware Projector 720p DLP56 Black",33,13,Slow-Moving
+"SV 40GB USB2.0 Portable Hard Disk E400 Red",33,10,Slow-Moving
+"WWI CRT17 E106 Black",33,14,Slow-Moving
+"WWI Projector 480p LCD12 White",33,11,Slow-Moving
+"A. Datum Advanced Digital Camera M300 Black",34,10,Slow-Moving
+"A. Datum Bridge Digital Camera M300 Black",34,10,Slow-Moving
+"A. Datum Rangefinder Digital Camera X200 Silver",34,15,Slow-Moving
+"A. Datum SLR-like Digital Camera M400 Silver",34,12,Slow-Moving
+"Adventure Works Coffee Maker Auto 10C M100 Silver",34,10,Slow-Moving
+"Contoso Air conditioner 10000BTU M0490 White",34,10,Slow-Moving
+"Contoso Digital camera accessory kit M200 Black",34,10,Slow-Moving
+"Contoso Digital Cordless Expansion Handset Phone M900 Grey",34,16,Slow-Moving
+"Contoso Home Theater System 7.1 Channel M1700 Silver",34,8,Slow-Moving
+"Contoso Hybrid system M60 Black",34,14,Slow-Moving
+"Contoso Microwave 1.5CuFt X0110 White",34,10,Slow-Moving
+"Contoso Private Branch Exchange M88 White",34,16,Slow-Moving
+"Contoso Reserve Pen - Tablet Pen E200 Black",34,10,Slow-Moving
+"Fabrikam Budget Moviemaker 2/3'' 17mm E100 White",34,12,Slow-Moving
+"Fabrikam Business Videographer 1/2'' 3mm M500 Black",34,12,Slow-Moving
+"Fabrikam Business Videographer 1/3'' 8.5mm M380 White",34,12,Slow-Moving
+"Fabrikam Coffee Maker 12C M100 Gold",34,11,Slow-Moving
+"Fabrikam Home and Vacation Moviemaker 1/3'' 8.5mm M200 Black",34,11,Slow-Moving
+"Fabrikam Home and vacation moviemaker 1/3" 8.5mm M200 Blue",34,14,Slow-Moving
+"Fabrikam Independent Filmmaker 1'' 25mm X400 Grey",34,12,Slow-Moving
+"Fabrikam Microwave 1.0CuFt E1100 Grey",34,8,Slow-Moving
+"Fabrikam Microwave 2.2CuFt M1250 Red",34,15,Slow-Moving
+"Fabrikam Refrigerator 1.7CuFt E1200 Orange",34,12,Slow-Moving
+"Fabrikam Refrigerator 24.7CuFt X9800 Silver",34,9,Slow-Moving
+"Fabrikam Social Videographer 1/3" 8.5mm E200 Orange",34,15,Slow-Moving
+"Litware Refrigerator 19CuFt M760 Brown",34,7,Slow-Moving
+"Litware Refrigerator 19CuFt M760 White",34,11,Slow-Moving
+"Litware Washer & Dryer 25.5in M350 Green",34,9,Slow-Moving
+"Proseware 23ppm Laser Printer with Wireless and Wired Network Interfaces M680 Black",34,9,Slow-Moving
+"Proseware Projector 720p DLP56 White",34,13,Slow-Moving
+"Proseware Slim-Design Fax Machine with Answering System X180 White",34,12,Slow-Moving
+"SV 160GB USB2.0 Portable Hard Disk M65 Silver",34,8,Slow-Moving
+"SV Keyboard E10 White",34,16,Slow-Moving
+"WWI Projector 720p LCD56 White",34,13,Slow-Moving
+"A. Datum Advanced Digital Camera M300 Silver",35,12,Slow-Moving
+"A. Datum Compact Digital Camera M200 Green",35,12,Slow-Moving
+"A. Datum Compact Digital Camera M200 Orange",35,11,Slow-Moving
+"A. Datum SLR Camera M142 Orange",35,13,Slow-Moving
+"A. Datum SLR-like Digital Camera M400 Pink",35,14,Slow-Moving
+"Adventure Works Coffee Maker Auto 5C E090 White",35,11,Slow-Moving
+"Contoso Coffee Maker 12C M1000 Black",35,8,Slow-Moving
+"Contoso Coffee Maker 4C E0800 Silver",35,10,Slow-Moving
+"Contoso Primary Extended Capacity Battery Pack - notebook battery X100 Black",35,11,Slow-Moving
+"Contoso Projector 720p M621 White",35,14,Slow-Moving
+"Contoso SLR Camera 35" X358 Silver",35,13,Slow-Moving
+"Contoso SLR Camera X142 Black",35,11,Slow-Moving
+"Contoso SLR Camera X145 Pink",35,15,Slow-Moving
+"Fabrikam Budget Movie-Maker 1/2'' 3mm E300 Black",35,10,Slow-Moving
+"Fabrikam Coffee Maker 12C M100 Black",35,9,Slow-Moving
+"Fabrikam Refrigerator 3.2CuFt E1600 Green",35,8,Slow-Moving
+"Litware 20'' Weather-Shield Performance Box Fan E1601 Black",35,8,Slow-Moving
+"Litware 92mm DBB Case Fan E1101 Silver",35,5,Slow-Moving
+"Litware Microwave 1.0CuFt E110 Grey",35,11,Slow-Moving
+"Litware Microwave 1.5CuFt X110 Grey",35,11,Slow-Moving
+"Litware Microwave 1.5CuFt X110 White",35,13,Slow-Moving
+"Litware Washer & Dryer 15.5in E150 Green",35,6,Slow-Moving
+"Proseware All-In-One Photo Printer M200 White",35,12,Slow-Moving
+"Proseware Laser Jet Color Printer X300 Grey",35,8,Slow-Moving
+"Proseware Photo Ink Jet Printer M100 Black",35,9,Slow-Moving
+"Proseware Wireless Photo All-in-One Printer M390 Black",35,16,Slow-Moving
+"SV Car Video AM/FM E1001 Brown",35,11,Slow-Moving
+"SV Car Video LCD7 M7003 Black",35,11,Slow-Moving
+"SV Keyboard E10 Silver",35,11,Slow-Moving
+"WWI Projector 480p LCD12 Silver",35,13,Slow-Moving
+"A. Datum Bridge Digital Camera M300 Azure",36,11,Slow-Moving
+"A. Datum Bridge Digital Camera M300 Pink",36,15,Slow-Moving
+"A. Datum Consumer Digital Camera E100 Azure",36,13,Slow-Moving
+"Adventure Works Coffee Maker 5C E090 Black",36,12,Slow-Moving
+"Contoso Coffee Maker Auto 5C E0900 White",36,12,Slow-Moving
+"Contoso Laptop Starter Bundle M200 White",36,10,Slow-Moving
+"Contoso Macro Zoom Lens X300 Silver",36,11,Slow-Moving
+"Contoso Microwave 1.5CuFt X0110 Red",36,15,Slow-Moving
+"Contoso Projector 720p M620 Black",36,13,Slow-Moving
+"Contoso Rechargeable Battery Pack E310 White",36,15,Slow-Moving
+"Contoso SLR Camera 35" X358 Gold",36,10,Slow-Moving
+"Fabrikam Coffee Maker 4C E080 Black",36,9,Slow-Moving
+"Fabrikam Coffee Maker 5C E090 Black",36,13,Slow-Moving
+"Fabrikam Coffee Maker Auto 5C E090 Silver",36,11,Slow-Moving
+"Fabrikam Social Videographer 1" 25mm E400 Blue",36,13,Slow-Moving
+"Litware Home Theater System 5.1 Channel M516 Black",36,9,Slow-Moving
+"Litware Microwave 0.8CuFt E080 Silver",36,14,Slow-Moving
+"Litware Microwave 0.9CuFt E090 Red",36,14,Slow-Moving
+"Litware Microwave 1.0CuFt E110 White",36,15,Slow-Moving
+"Litware Refrigerator 3.2CuFt E160 Blue",36,9,Slow-Moving
+"Litware Refrigerator 9.7CuFt M560 Orange",36,9,Slow-Moving
+"Litware Washer & Dryer 24in M260 Silver",36,7,Slow-Moving
+"NT Washer & Dryer 15.5in E1550 White",36,8,Slow-Moving
+"Proseware Air conditioner 7000BTU E260 White",36,10,Slow-Moving
+"Proseware Screen 80in E1010 Black",36,15,Slow-Moving
+"SV 40GB USB2.0 Portable Hard Disk E400 Blue",36,11,Slow-Moving
+"A. Datum Interchangeable lens Non-SLR Digital Camera X250 Grey",37,14,Slow-Moving
+"A. Datum SLR-like Digital Camera M400 Black",37,11,Slow-Moving
+"Contoso 3 Handset Cordless Phone System E30 White",37,14,Slow-Moving
+"Contoso Microwave 0.8CuFt E0080 Red",37,11,Slow-Moving
+"Contoso Microwave 2.2CuFt M0125 Grey",37,13,Slow-Moving
+"Contoso Optical USB Mouse M45 Grey",37,10,Slow-Moving
+"Contoso USB Optical Mouse E200 White",37,11,Slow-Moving
+"Contoso Waterproof Accessory Handset and Charging Cradle M609 Black",37,13,Slow-Moving
+"Fabrikam Budget Moviemaker 1'' 25mm E400 Grey",37,13,Slow-Moving
+"Fabrikam Microwave 1.0CuFt E1100 Black",37,14,Slow-Moving
+"Fabrikam Microwave 1.5CuFt X1100 White",37,13,Slow-Moving
+"Fabrikam Social Videographer 1/3'' 8.5mm E200 Grey",37,12,Slow-Moving
+"Fabrikam Trendsetter 1'' 25mm X400 Black",37,12,Slow-Moving
